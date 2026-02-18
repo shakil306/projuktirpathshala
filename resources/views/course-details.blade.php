@@ -26,7 +26,7 @@ $title=Title::where('p_mark',"Course Details")->first();
         <div class="row text-center">
             <div class="col">
                 <!--<h1 class="course_detail_heading">{{ substr($course->title, -3, -4) }}</h2>-->
-                 <h1 class="course_detail_heading">{{ $course->title }}</h2>
+                <h1 class="course_detail_heading">{{ $course->title }}</h2>
             </div>
         </div>
     </div>
@@ -46,36 +46,36 @@ $title=Title::where('p_mark',"Course Details")->first();
                 <div class="row course-details-page">
                     <div class="col-lg-3 col-md-3 col-sm-3 courseDetailsHeroSection">
                         <h5>Course Duration</h5>
-                        
+
                         <p>{{$course->duration}}</p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 courseDetailsHeroSection">
                         <h5>Total Classes</h5>
                         <p>Classes : {{$course->total_classes}}</p>
                     </div>
-                     <div class="col-lg-3 col-md-3 col-sm-3 courseDetailsHeroSection">
+                    <div class="col-lg-3 col-md-3 col-sm-3 courseDetailsHeroSection">
                         <h5>Regular Fees</h5>
-                        
+
                         <input type="hidden" value="{{$course->course_fee}}" id="getRegularPrice">
                         <p id="regular-price"></p>
-                        
+
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 courseDetailsHeroSection">
-                        <?php 
+                        <?php
                         // $withoutPercentence = trim(substr($course->discount, 0,2));
                         $withoutPercentence = rtrim($course->discount, "%");
-                        $percentenceValue = $withoutPercentence / 100; 
-                        
+                        $percentenceValue = $withoutPercentence / 100;
+
                         $discountTaka = $percentenceValue * $course->course_fee;
                         ?>
                         <!--{{$withoutPercentence}}-->
                         <!--{{$percentenceValue}}-->
                         <!--{{$discountTaka}}-->
                         <h5>{{$course->discount}} Discount Fees</h5>
-                        
+
                         <input type="hidden" value="{{ $course->course_fee - $discountTaka }}" id="getdiscountPrice">
                         <p id="discount-price"></p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -85,7 +85,9 @@ $title=Title::where('p_mark',"Course Details")->first();
                 <div class="related-item">
                     @foreach($relatcoursess as $re_course)
                     <a href="{{route('course_details',['id'=>$re_course->slug])}}"><i
-                            class="fas fa-caret-right"></i><div>{!! Str::limit($re_course->title, 50) !!}</div></a>
+                            class="fas fa-caret-right"></i>
+                        <div>{!! Str::limit($re_course->title, 50) !!}</div>
+                    </a>
                     @endforeach
 
                 </div>
@@ -93,7 +95,7 @@ $title=Title::where('p_mark',"Course Details")->first();
             <div class="col-lg-8 col-md-8 col-sm-12 course-relaed-2">
                 <div class="row">
                     <div class="col imageBorder">
-                        <img src="{{url('public/uploads/course/'.$course->image)}}" alt="{{$course->alt}}">
+                        <img src="{{asset('uploads/course/'.$course->image)}}" alt="{{$course->alt}}">
                     </div>
                 </div>
             </div>
@@ -173,12 +175,12 @@ $title=Title::where('p_mark',"Course Details")->first();
                 <div class="title text-center">
                     <h4>Upcoming Batch</h4>
                 </div>
-               
+
                 @foreach($up_course as $up_course)
                 <div class="heading text-center">
                     <h2 style="color:black;">{!! $up_course->title !!}</h2>
-                    
-                    
+
+
 
                     <input type="hidden" value="{{$up_course->course_fee}}" id="upcommingPrice">
                     <p id="setUpcommingPrice"></p>
@@ -188,7 +190,7 @@ $title=Title::where('p_mark',"Course Details")->first();
                 <div class="body text-center">
                     <a href="{{route('admission')}}">Admission</a>
                 </div>
-                    <br>
+                <br>
                 <div class="footer">
                     <h5>Contact</h5>
                     <p>+{{$contact->phone}}</p>
@@ -196,7 +198,7 @@ $title=Title::where('p_mark',"Course Details")->first();
                 </div>
                 @endforeach
             </div>
-            
+
             @foreach($course_modules as $module)
             <div class="col-lg-4 col-md-4 col-sm-12">
                 <div class="module-item text-center">
@@ -204,75 +206,75 @@ $title=Title::where('p_mark',"Course Details")->first();
                         @Auth
                         @if(auth()->user()->status==='active')
                         <a href="{{route('moduledelete', ['id'=>$module->id])}}"> <i class="fas fa-trash-alt"></i></a>
-                        
-                        
-                                <!--<i style="cursor: pointer;" class="fas fa-pencil-alt" data-toggle="modal" data-target="#editmodule{{$module->id}}"></i>-->
-                                
-                                <p>
-                          <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleOurCoursesTitle{{$module->id}}" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            Edit
-                          </a>
-                        </p>
-                        <div class="collapse" id="collapseExampleOurCoursesTitle{{$module->id}}">
-                            <div class="">
-                                <div class="modal-dialog modal-dialog-centered" role="document">
-                                    <div class="modal-content">
-                                        <div class="modal-header border-bottom-0">
-                                        </div>
-                                            <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"
-                                                      role="form" enctype="multipart/form-data">
-                                                @csrf
-                                                <div class="modal-body">
 
-                                                    <div class="form-group">
-                                                        <textarea class="form-control" id="summernote" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer border-top-0 d-flex justify-content-center">
-                                                    <button type="submit" class="btn btn-success">Update</button>
-                                                </div>
-                                            </form>
-                                       </div>
+
+                        <!--<i style="cursor: pointer;" class="fas fa-pencil-alt" data-toggle="modal" data-target="#editmodule{{$module->id}}"></i>-->
+
+                    <p>
+                        <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleOurCoursesTitle{{$module->id}}" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            Edit
+                        </a>
+                    </p>
+                    <div class="collapse" id="collapseExampleOurCoursesTitle{{$module->id}}">
+                        <div class="">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header border-bottom-0">
+                                    </div>
+                                    <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"
+                                        role="form" enctype="multipart/form-data">
+                                        @csrf
+                                        <div class="modal-body">
+
+                                            <div class="form-group">
+                                                <textarea class="form-control" id="summernote" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>
+                                            </div>
+                                        </div>
+                                        <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                            <button type="submit" class="btn btn-success">Update</button>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
-                                
-                                
-                        @Auth
-                            @if(auth()->user()->status==='active')
-                                <div class="modal-part">
-                                    <div class="modal fade" id="editmodule{{$module->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-                                         aria-hidden="true">
-                                        <div class="modal-dialog modal-dialog-centered" role="document">
-                                            <div class="modal-content">
-                                                <div class="modal-header border-bottom-0">
-                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                        <span aria-hidden="true">&times;</span>
-                                                    </button>
-                                                </div>
-                                                <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"
-                                                      role="form" enctype="multipart/form-data">
-                                                    @csrf
-                                                    <div class="modal-body">
+                    </div>
 
-                                                        <div class="form-group">
-                                                            <textarea class="form-control" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>
-                                                        </div>
-                                                    </div>
-                                                    <div class="modal-footer border-top-0 d-flex justify-content-center">
-                                                        <button type="submit" class="btn btn-success">Update</button>
-                                                    </div>
-                                                </form>
+
+                    @Auth
+                    @if(auth()->user()->status==='active')
+                    <div class="modal-part">
+                        <div class="modal fade" id="editmodule{{$module->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                            aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header border-bottom-0">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"
+                                        role="form" enctype="multipart/form-data">
+                                        @csrf
+                                        <div class="modal-body">
+
+                                            <div class="form-group">
+                                                <textarea class="form-control" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>
                                             </div>
                                         </div>
-                                    </div>
+                                        <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                            <button type="submit" class="btn btn-success">Update</button>
+                                        </div>
+                                    </form>
                                 </div>
-                                @endif
-                                @endif
-                        @endif
-                        @endif
+                            </div>
+                        </div>
+                    </div>
+                    @endif
+                    @endif
+                    @endif
+                    @endif
                     </p>
-                    
+
                     @Auth
                     @if(auth()->user()->status==='active')
                     <div class="modal-part">
@@ -296,8 +298,8 @@ $title=Title::where('p_mark',"Course Details")->first();
                                         <div class="modal-body">
                                             <div class="form-group">
                                                 <textarea name="name" id="" cols="30" rows="10"></textarea>
-{{--                                                <input class="form-control" name="name" type="text"--}}
-{{--                                                    placeholder="Module Name" required>--}}
+                                                {{-- <input class="form-control" name="name" type="text"--}}
+                                                {{-- placeholder="Module Name" required>--}}
                                             </div>
                                             <input name="id" value="{{$course->id}}" class="form-control" id="id"
                                                 type="hidden" required>
@@ -316,124 +318,124 @@ $title=Title::where('p_mark',"Course Details")->first();
                 </div>
             </div>
             @endforeach
-<!--            <div class="col-lg-8 col-md-4 col-sm-12">-->
-<!--                <div class="module-item text-center">-->
-<!--                    @foreach($course_modules as $module)-->
-<!--                    <p style="text-align: justify"><a href="#">{!! $module->course_idname !!}</a>-->
-<!--                        @Auth-->
-<!--                        @if(auth()->user()->status==='active')-->
-<!--                        <a href="{{route('moduledelete', ['id'=>$module->id])}}"> <i class="fas fa-trash-alt"></i></a>-->
-                        
-                        
-                                <!--<i style="cursor: pointer;" class="fas fa-pencil-alt" data-toggle="modal" data-target="#editmodule{{$module->id}}"></i>-->
-                                
-<!--                                <p>-->
-<!--                          <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleOurCoursesTitle{{$module->id}}" role="button" aria-expanded="false" aria-controls="collapseExample">-->
-<!--                            Edit-->
-<!--                          </a>-->
-<!--                        </p>-->
-<!--                        <div class="collapse" id="collapseExampleOurCoursesTitle{{$module->id}}">-->
-<!--                            <div class="">-->
-<!--                                <div class="modal-dialog modal-dialog-centered" role="document">-->
-<!--                                    <div class="modal-content">-->
-<!--                                        <div class="modal-header border-bottom-0">-->
-<!--                                        </div>-->
-<!--                                            <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"-->
-<!--                                                      role="form" enctype="multipart/form-data">-->
-<!--                                                @csrf-->
-<!--                                                <div class="modal-body">-->
+            <!--            <div class="col-lg-8 col-md-4 col-sm-12">-->
+            <!--                <div class="module-item text-center">-->
+            <!--                    @foreach($course_modules as $module)-->
+            <!--                    <p style="text-align: justify"><a href="#">{!! $module->course_idname !!}</a>-->
+            <!--                        @Auth-->
+            <!--                        @if(auth()->user()->status==='active')-->
+            <!--                        <a href="{{route('moduledelete', ['id'=>$module->id])}}"> <i class="fas fa-trash-alt"></i></a>-->
 
-<!--                                                    <div class="form-group">-->
-<!--                                                        <textarea class="form-control" id="summernote" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>-->
-<!--                                                    </div>-->
-<!--                                                </div>-->
-<!--                                                <div class="modal-footer border-top-0 d-flex justify-content-center">-->
-<!--                                                    <button type="submit" class="btn btn-success">Update</button>-->
-<!--                                                </div>-->
-<!--                                            </form>-->
-<!--                                       </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-                                
-                                
-<!--                        @Auth-->
-<!--                            @if(auth()->user()->status==='active')-->
-<!--                                <div class="modal-part">-->
-<!--                                    <div class="modal fade" id="editmodule{{$module->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"-->
-<!--                                         aria-hidden="true">-->
-<!--                                        <div class="modal-dialog modal-dialog-centered" role="document">-->
-<!--                                            <div class="modal-content">-->
-<!--                                                <div class="modal-header border-bottom-0">-->
-<!--                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
-<!--                                                        <span aria-hidden="true">&times;</span>-->
-<!--                                                    </button>-->
-<!--                                                </div>-->
-<!--                                                <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"-->
-<!--                                                      role="form" enctype="multipart/form-data">-->
-<!--                                                    @csrf-->
-<!--                                                    <div class="modal-body">-->
 
-<!--                                                        <div class="form-group">-->
-<!--                                                            <textarea class="form-control" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>-->
-<!--                                                        </div>-->
-<!--                                                    </div>-->
-<!--                                                    <div class="modal-footer border-top-0 d-flex justify-content-center">-->
-<!--                                                        <button type="submit" class="btn btn-success">Update</button>-->
-<!--                                                    </div>-->
-<!--                                                </form>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                @endif-->
-<!--                                @endif-->
-<!--                        @endif-->
-<!--                        @endif-->
-<!--                    </p>-->
-<!--                    @endforeach-->
-<!--                    @Auth-->
-<!--                    @if(auth()->user()->status==='active')-->
-<!--                    <div class="modal-part">-->
-<!--                        <div class="container">-->
-<!--                            <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#form421">-->
-<!--                                Add Module-->
-<!--                            </button>-->
-<!--                        </div>-->
-<!--                        <div class="modal fade" id="form421" tabindex="-1" role="dialog"-->
-<!--                            aria-labelledby="exampleModalLabel" aria-hidden="true">-->
-<!--                            <div class="modal-dialog modal-dialog-centered" role="document">-->
-<!--                                <div class="modal-content">-->
-<!--                                    <div class="modal-header border-bottom-0">-->
-<!--                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
-<!--                                            <span aria-hidden="true">&times;</span>-->
-<!--                                        </button>-->
-<!--                                    </div>-->
-<!--                                    <form action="{{route('createmodule2')}}" method="post" role="form"-->
-<!--                                        enctype="multipart/form-data">-->
-<!--                                        @csrf-->
-<!--                                        <div class="modal-body">-->
-<!--                                            <div class="form-group">-->
-<!--                                                <textarea name="name" id="" cols="30" rows="10"></textarea>-->
-<!--{{--                                                <input class="form-control" name="name" type="text"--}}-->
-<!--{{--                                                    placeholder="Module Name" required>--}}-->
-<!--                                            </div>-->
-<!--                                            <input name="id" value="{{$course->id}}" class="form-control" id="id"-->
-<!--                                                type="hidden" required>-->
+            <!--<i style="cursor: pointer;" class="fas fa-pencil-alt" data-toggle="modal" data-target="#editmodule{{$module->id}}"></i>-->
 
-<!--                                        </div>-->
-<!--                                        <div class="modal-footer border-top-0 d-flex justify-content-center">-->
-<!--                                            <button type="submit" class="btn btn-success">Submit</button>-->
-<!--                                        </div>-->
-<!--                                    </form>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    @endif-->
-<!--                    @endif-->
-<!--                </div>-->
-<!--            </div>-->
+            <!--                                <p>-->
+            <!--                          <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleOurCoursesTitle{{$module->id}}" role="button" aria-expanded="false" aria-controls="collapseExample">-->
+            <!--                            Edit-->
+            <!--                          </a>-->
+            <!--                        </p>-->
+            <!--                        <div class="collapse" id="collapseExampleOurCoursesTitle{{$module->id}}">-->
+            <!--                            <div class="">-->
+            <!--                                <div class="modal-dialog modal-dialog-centered" role="document">-->
+            <!--                                    <div class="modal-content">-->
+            <!--                                        <div class="modal-header border-bottom-0">-->
+            <!--                                        </div>-->
+            <!--                                            <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"-->
+            <!--                                                      role="form" enctype="multipart/form-data">-->
+            <!--                                                @csrf-->
+            <!--                                                <div class="modal-body">-->
+
+            <!--                                                    <div class="form-group">-->
+            <!--                                                        <textarea class="form-control" id="summernote" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>-->
+            <!--                                                    </div>-->
+            <!--                                                </div>-->
+            <!--                                                <div class="modal-footer border-top-0 d-flex justify-content-center">-->
+            <!--                                                    <button type="submit" class="btn btn-success">Update</button>-->
+            <!--                                                </div>-->
+            <!--                                            </form>-->
+            <!--                                       </div>-->
+            <!--                                </div>-->
+            <!--                            </div>-->
+            <!--                        </div>-->
+
+
+            <!--                        @Auth-->
+            <!--                            @if(auth()->user()->status==='active')-->
+            <!--                                <div class="modal-part">-->
+            <!--                                    <div class="modal fade" id="editmodule{{$module->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"-->
+            <!--                                         aria-hidden="true">-->
+            <!--                                        <div class="modal-dialog modal-dialog-centered" role="document">-->
+            <!--                                            <div class="modal-content">-->
+            <!--                                                <div class="modal-header border-bottom-0">-->
+            <!--                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+            <!--                                                        <span aria-hidden="true">&times;</span>-->
+            <!--                                                    </button>-->
+            <!--                                                </div>-->
+            <!--                                                <form action="{{route('course.module.edit',['id'=>$module->id])}}" method="POST"-->
+            <!--                                                      role="form" enctype="multipart/form-data">-->
+            <!--                                                    @csrf-->
+            <!--                                                    <div class="modal-body">-->
+
+            <!--                                                        <div class="form-group">-->
+            <!--                                                            <textarea class="form-control" name="coursemodule" cols="30" rows="8" required>{{$module->course_idname}}</textarea>-->
+            <!--                                                        </div>-->
+            <!--                                                    </div>-->
+            <!--                                                    <div class="modal-footer border-top-0 d-flex justify-content-center">-->
+            <!--                                                        <button type="submit" class="btn btn-success">Update</button>-->
+            <!--                                                    </div>-->
+            <!--                                                </form>-->
+            <!--                                            </div>-->
+            <!--                                        </div>-->
+            <!--                                    </div>-->
+            <!--                                </div>-->
+            <!--                                @endif-->
+            <!--                                @endif-->
+            <!--                        @endif-->
+            <!--                        @endif-->
+            <!--                    </p>-->
+            <!--                    @endforeach-->
+            <!--                    @Auth-->
+            <!--                    @if(auth()->user()->status==='active')-->
+            <!--                    <div class="modal-part">-->
+            <!--                        <div class="container">-->
+            <!--                            <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#form421">-->
+            <!--                                Add Module-->
+            <!--                            </button>-->
+            <!--                        </div>-->
+            <!--                        <div class="modal fade" id="form421" tabindex="-1" role="dialog"-->
+            <!--                            aria-labelledby="exampleModalLabel" aria-hidden="true">-->
+            <!--                            <div class="modal-dialog modal-dialog-centered" role="document">-->
+            <!--                                <div class="modal-content">-->
+            <!--                                    <div class="modal-header border-bottom-0">-->
+            <!--                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+            <!--                                            <span aria-hidden="true">&times;</span>-->
+            <!--                                        </button>-->
+            <!--                                    </div>-->
+            <!--                                    <form action="{{route('createmodule2')}}" method="post" role="form"-->
+            <!--                                        enctype="multipart/form-data">-->
+            <!--                                        @csrf-->
+            <!--                                        <div class="modal-body">-->
+            <!--                                            <div class="form-group">-->
+            <!--                                                <textarea name="name" id="" cols="30" rows="10"></textarea>-->
+            <!--{{--                                                <input class="form-control" name="name" type="text"--}}-->
+            <!--{{--                                                    placeholder="Module Name" required>--}}-->
+            <!--                                            </div>-->
+            <!--                                            <input name="id" value="{{$course->id}}" class="form-control" id="id"-->
+            <!--                                                type="hidden" required>-->
+
+            <!--                                        </div>-->
+            <!--                                        <div class="modal-footer border-top-0 d-flex justify-content-center">-->
+            <!--                                            <button type="submit" class="btn btn-success">Submit</button>-->
+            <!--                                        </div>-->
+            <!--                                    </form>-->
+            <!--                                </div>-->
+            <!--                            </div>-->
+            <!--                        </div>-->
+            <!--                    </div>-->
+            <!--                    @endif-->
+            <!--                    @endif-->
+            <!--                </div>-->
+            <!--            </div>-->
         </div>
         <div class="row justify-content-center <!--&lt;!&ndash;requirement&ndash;&gt;-->">
             <div class="col-md-6">
@@ -505,49 +507,48 @@ $title=Title::where('p_mark',"Course Details")->first();
 
 <!--=========== Add comma script ==============-->
 <script>
-    
     function addComma(number) {
-      if (typeof number !== 'number') {
-        throw new Error('Invalid input. Please provide a number.');
-      }
-    
-      let strNumber = number.toString();
-      let length = strNumber.length;
-    
-      if (length <= 2) {
-        return strNumber;
-      }
-    
-      let result = '';
-      let count = 0;
-    
-      for (let i = length - 1; i >= 0; i--) {
-        result = strNumber[i] + result;
-        count++;
-    
-        if (count === 3 && i !== 0) {
-          result = ',' + result;
-          count = 0;
+        if (typeof number !== 'number') {
+            throw new Error('Invalid input. Please provide a number.');
         }
-      }
-    
-      return result;
+
+        let strNumber = number.toString();
+        let length = strNumber.length;
+
+        if (length <= 2) {
+            return strNumber;
+        }
+
+        let result = '';
+        let count = 0;
+
+        for (let i = length - 1; i >= 0; i--) {
+            result = strNumber[i] + result;
+            count++;
+
+            if (count === 3 && i !== 0) {
+                result = ',' + result;
+                count = 0;
+            }
+        }
+
+        return result;
     }
-    
+
     //get regular parice
     const RPrice = document.getElementById('getRegularPrice').value;
     const rPriceInt = parseInt(RPrice);
     const valueWithComma = addComma(rPriceInt);
     // set regular price
     document.getElementById('regular-price').innerHTML = `BDT-${valueWithComma}/=`;
-    
+
     //get Discount parice
     const discountPrice = document.getElementById('getdiscountPrice').value;
     const discountPriceInt = parseInt(discountPrice);
     const discountPriceWithComma = addComma(discountPriceInt);
     // set regular price
     document.getElementById('discount-price').innerHTML = `BDT-${discountPriceWithComma}/=`;
-    
+
 
     //get upcomming parice
     const upcommingPrice = document.getElementById('upcommingPrice').value;

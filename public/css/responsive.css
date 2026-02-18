@@ -1,0 +1,3473 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/*==============================================*/
+
+/*====== 991 px =====*/
+
+@media (max-width: 991px) {
+  /*=============================================== INDEX PART =============*/
+
+  /*==Start Header top Section=*/
+  #header-icon img {
+    width: 65px;
+  }
+
+  #header-icon .phone {
+    margin-left: 0px;
+    float: right;
+  }
+
+  #header-icon .email {
+    float: right;
+  }
+
+  #header-icon .phone .phn-icon i {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  #header-icon .phone .phn-num p {
+    font-size: 11px;
+  }
+
+  #header-icon .email .email-icon i {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  #header-icon .email .email-add p {
+    font-size: 11px;
+  }
+
+  /*==End Header top Section=*/
+
+  /*==Start Navbbar Section ==*/
+  .navbar {
+    padding: 10px 20px;
+  }
+  .navbar ul li a{
+    float: left;
+  }
+  .navbar ul li:first-child {
+     margin-left: 10px;
+}
+  .navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 18px;
+  }
+
+  .navbar .nav-item .button {
+    width: 75px;
+  }
+
+  .navbar ul li {
+    padding: 0px 18px;
+    margin-bottom: -8px;
+  }
+
+  .navbar-nav .dropdown-menu {
+   
+    background: #e0f1f9;
+  }
+
+  .navbar .dropdown-menu a {
+    font-size: 18px;
+    margin-bottom: -4px;
+  }
+
+  /*= End Navbbar Section==*/
+
+  /*==Start Wellcome Section=*/
+  #wellcome-area {
+    padding: 30px 0px;
+  }
+
+  #wellcome-area .wellcome-part h1 {
+    font-size: 29px;
+    padding-bottom: 20px;
+  }
+  #wellcome-area .wellcome-part img {
+    height: 240px;
+    width: 100%;
+}
+  #wellcome-area .wellcome-part p {
+    font-size: 15px;
+    padding-left: 0px;
+  }
+
+  #wellcome-area .course-part h1 {
+    font-size: 30px;
+    padding: 30px 0px 5px 0px;
+}
+  #wellcome-area .card-part .card-item .item {
+    margin-left: 14px;
+}
+  #wellcome-area .card-part .item .card {
+    padding: 0px 0px 12px 0px;
+}
+#wellcome-area .card-part .card img {
+  height: 160px;
+}
+#wellcome-area .card-part .card .card-title {
+  font-size: 18px;
+}
+#wellcome-area .card-part .card .card-body p {
+  font-size: 14px;
+}
+#wellcome-area .card-part .card .card-offer .card-middle p {
+  font-size: 19px;
+}
+  #wellcome-area .card-part .card .card-item-footer {
+    width: 90%;
+}
+  #wellcome-area .card-part .card .card-item-footer a {
+    padding: 6px 10px;
+    letter-spacing: 1.1px;
+    font-size: 14px;
+}
+  #wellcome-area .button a {
+    padding: 5px 15px;
+    font-size: 18px;
+  }
+
+  #wellcome-area .button {
+    margin-top: 15px;
+  }
+
+  /*== End Wellcome Section ==*/
+
+  /*== Start Facility Section ==*/
+  #facility-section {
+    padding: 30px 0px;
+  }
+
+  #facility-section h2 {
+    font-size: 30px;
+    margin: 0px 0px;
+    padding-bottom: 20px;
+  }
+
+  #facility-section h3 {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+  #facility-section p {
+    font-size: 13px;
+  }
+
+  /*== End Facility Section ==*/
+
+  /*== Start Leader Section ==*/
+  #leader-section {
+    padding: 30px 0px;
+  }
+
+  #leader-section h2 {
+    font-size: 30px;
+    padding-bottom: 7px;
+  }
+
+  #leader-section .carousel-inner img {
+    width: 226px;
+    height: 224px;
+    margin: 9px;
+    margin-top: 38px;
+  }
+
+  #leader-section .card-body h5 {
+    margin-bottom: 15px;
+  }
+
+  #leader-section .card-body p {
+    text-align: justify;
+    font-size: 14px;
+  }
+
+  /*== End Leader Section ==*/
+
+  /*== Start Batch Section ==*/
+  #batch-section {
+    padding: 30px 0px;
+  }
+
+  #batch-section h2 {
+    font-size: 30px;
+    padding-bottom: 15px;
+  }
+
+  #batch-section .batch-item {
+    height: 190px;
+  }
+
+
+
+  #batch-section .batch-item img {
+    width: 125px;
+    height: 125px;
+    margin: 10px;
+    padding: 7px;
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+
+  #batch-section .batch-item .batch-details {
+    padding-left: 10px;
+  }
+
+  #batch-section .batch-item .batch-top p {
+    font-size: 14px;
+    margin-top: 25px;
+  }
+
+  #batch-section .batch-item .batch-top small {
+    font-size: 14px;
+  }
+
+  #batch-section .batch-item .batch-bottom {
+
+    margin-top: 15px;
+  }
+
+  #batch-section .batch-item .batch-bottom p {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  #batch-section .batch-item .batch-bottom a {
+    font-size: 13px;
+  }
+
+
+  /*== End Batch Section ==*/
+
+  /*== Start Video Section ==*/
+  #video-section {
+    padding: 20px 0px;
+  }
+
+  #video-section h2 {
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: -8px;
+  }
+
+
+  #video-section .video-part iframe {
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+
+  /*== End Video Section ==*/
+
+  /*== Start Counter Section ==*/
+  #counter .start-items p {
+    font-size: 16px;
+  }
+
+  #counter .start-items i {
+    font-size: 35px;
+  }
+
+  #counter .start-items span {
+    font-size: 40px;
+  }
+
+  /*== End Counter Section ==*/
+
+  /*== Start student Section ==*/
+  #student-section {
+    padding: 30px 0px;
+  }
+
+  #student-section h2 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #2f4858;
+    padding-bottom: 10px;
+  }
+
+  #student-section .stu-footer h3 {
+    font-size: 30px;
+  }
+
+  #student-section .stu-footer p {
+    font-size: 20px;
+  }
+
+  #student-section .card-body p {
+    font-size: 14px;
+  }
+
+  #student-section .carousel-inner img {
+    width: 130px;
+    height: 130px;
+    margin: 15px;
+    margin-top: 50px;
+  }
+
+  #student-section .card-body span {
+    font-size: 20px;
+  }
+
+  /*== End student Section ==*/
+
+  /*== Start Feedback Section ==*/
+  #feedback-section {
+    padding: 30px 0px;
+    padding-bottom: 40px;
+  }
+
+  #feedback-section form {
+    padding: 10px;
+  }
+
+  #feedback-section form h2 {
+    font-size: 22px;
+  }
+
+  #feedback-section form ::-webkit-input-placeholder {
+    color: rgb(181, 175, 175);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #feedback-section form ::-moz-placeholder {
+    color: rgb(181, 175, 175);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #feedback-section form :-ms-input-placeholder {
+    color: rgb(181, 175, 175);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #feedback-section form ::-ms-input-placeholder {
+    color: rgb(181, 175, 175);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #feedback-section form ::placeholder {
+    color: rgb(181, 175, 175);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #feedback-section form button {
+    font-size: 20px;
+    padding: 3px 20px;
+  }
+
+  #feedback-section .feedback-p h5 {
+    font-size: 25px;
+  }
+
+  #feedback-section .feedback-p p {
+    font-size: 18px;
+  }
+
+  .card-text:last-child {
+    margin-bottom: 0;
+    font-size: 14px;
+    text-align: justify;
+  }
+
+  /*== End Feedback Section ==*/
+
+  /*== Start Footer Top logo==**/
+  #footer-top h2 {
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  #footer-top .img img {
+    width: 60px;
+    height: 65px;
+    margin-bottom: 0px;
+  }
+
+  /*== End Footer Top ==**/
+
+  /*== Start Footer Top ==**/
+  #footer-top .left img {
+    width: 60px;
+    margin-top: 69px;
+  }
+
+  #footer-top h4 {
+    margin-bottom: 15px;
+    font-size: 15px;
+  }
+
+  #footer-top p a {
+    font-size: 13px;
+  }
+
+  #footer-top .right {
+    text-align: left;
+  }
+
+  #footer-top .home .icon i {
+    padding: 7px;
+    font-size: 20px;
+    margin-top: 6px;
+  }
+
+  #footer-top .home p {
+    margin-bottom: 0px;
+    font-size: 13px;
+  }
+
+  #footer-top .phone .phn-icon i {
+    padding: 7px;
+    font-size: 20px;
+    margin-top: -7px;
+  }
+
+  #footer-top .email .email-icon i {
+    padding: 7px;
+    font-size: 20px;
+    margin-top: -7px;
+  }
+
+  /*== End Footer Top ==**/
+
+  /*==Footer==**/
+  #footer {
+    padding: 5px 0;
+  }
+
+  #footer p {
+    font-size: 13px;
+  }
+
+  /*== End Footer==**/
+
+  /*============================== End INDEX PART ===================*/
+
+  /*============================================= START ABOUT PART===============================*/
+
+  /*== Start About Header Section ==**/
+  #header-top {
+    margin: 30px 0px;
+}
+  #header-top h1 {
+    font-size: 30px;
+    margin-top: 10px;
+    padding: 5px 0px;
+  }
+
+  #header-bottom h4 {
+    padding-bottom: 15px;
+    font-size: 20px;
+  }
+
+  #header-bottom {
+    padding: 0px 0px 30px 0px;
+  }
+
+  #header-bottom p {
+    font-size: 14px;
+  }
+
+  /*== End About Header Section ==**/
+
+  /*== Start Mission Section ==**/
+  #mission-section {
+    padding: 30px 0px;
+  }
+
+  #mission-section h2 {
+    padding-bottom: 10px;
+    font-size: 25px;
+  }
+
+  #mission-section img {
+    height: 200px;
+  }
+
+  #mission-section p {
+    font-size: 15px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  /*== End Mission Section ==**/
+
+  /*== Start Choose Section ==**/
+  #choose-section {
+    padding: 30px 0px 10px 0px;
+  }
+  #choose-section p {
+    padding-top: 35px;
+}
+  #choose-section h2 {
+    padding-bottom: 0px;
+    font-size: 25px;
+    margin: 0px;
+  }
+
+  #choose-section h2::after {
+    bottom: -17px;
+
+  }
+
+  #choose .choose-item:hover {
+    -webkit-transform: scale(1.02);
+        -ms-transform: scale(1.02);
+        -o-transform: scale(1.02);
+        -moz-transform: scale(1.02);
+            transform: scale(1.02);
+  }
+
+  #choose {
+    padding: 0px 0px 30px 0px;
+    
+  }
+
+  /*== End Choose Section ==**/
+
+  /*== Start Mentors Section ==**/
+  #mentor-section-top {
+    padding-top: 30px;
+}
+  #mentor-section {
+    padding-bottom: 10px;
+  }
+
+  #mentor-section-top h2 {
+    font-size: 25px;
+    margin-bottom: 5px;
+  }
+
+  /*== End Mentors Section ==**/
+
+  /*============================================= END ABOUT PART============*/
+
+  /*============================================= START COURSE PART============*/
+
+  /*== Start Course Header Section ==**/
+  #course-top .container {
+    margin: 30px auto 15px auto;
+}
+  #course-top h1 {
+    font-size: 25px;
+    margin-top: 10px;
+  }
+
+  /*== End Course Header Section ==**/
+
+  /*== Start Graphic Design Section ==**/
+  #graphic-top {
+    padding: 30px 0px;
+  }
+
+  #graphic-top h3 {
+    font-size: 23px;
+    padding-bottom: 15px;
+  }
+
+  #graphic-top p {
+    font-size: 15px;
+  }
+
+  #graphic-bottom .grap-all .card .card-bottom a {
+    font-size: 14px;
+    padding: 5px 15px;
+}
+
+  #graphic-bottom img {
+    height: 165px;
+  }
+
+  #graphic-bottom h5 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+
+  
+
+  /*== End Graphic Design Section ==**/
+
+  /*== Start Digital marketing Section ==**/
+  #digital-top {
+    padding: 30px 0px;
+    padding-bottom: 0px;
+  }
+
+  #digital-top h3 {
+    padding-bottom: 15px;
+    font-size: 25px;
+  }
+
+  #digital-top p {
+    font-size: 15px;
+  }
+  #digital-secttion {
+    padding: 30px 0px;
+}
+  #digital-secttion .grap-all .card .card-bottom a {
+    font-size: 14px;
+    padding: 5px 15px;
+}
+
+#digital-secttion img {
+    height: 165px;
+  }
+  #digital-secttion h5 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+
+  /*== End Digital marketing Section ==**/
+
+  /*== Start Web Development Section ==**/
+  #web-top {
+    padding: 30px 0px;
+  }
+
+  #web-top h3 {
+    padding-bottom: 15px;
+    font-size: 25px;
+  }
+
+  #web-top p {
+    font-size: 15px;
+  }
+
+  
+ #web-bottom .grap-all .card .card-bottom a {
+    font-size: 14px;
+    padding: 5px 15px;
+}
+
+#web-bottom img {
+    height: 165px;
+  }
+  #web-bottom  h5 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+  /*== End Web Development Section ==**/
+
+  /*============================================= END COURSE PART============*/
+
+  /*============================================= START ADMISSION PART============*/
+
+  /*== Start Admission Header Section ==**/
+  #form-section-top .container {
+    margin: 30px auto 10px auto;
+}
+  #admission-top h1 {
+    font-size: 25px;
+  }
+
+  #add-header-bottom p {
+    text-align: justify;
+    font-size: 16px;
+    color: rgb(68, 68, 68);
+    margin-bottom: 5px;
+  }
+
+  /*== End Admission Header Section ==**/
+
+  /*== StartForm Part Section ==**/
+  #form-section-top h3 {
+    font-size: 25px;
+  }
+  #form-body form {
+    padding-bottom: 30px;
+}
+  #form-body form .edu h3 {
+    font-size: 25px;
+  }
+
+  #form-body form button {
+    padding: 5px 25px;
+    font-size: 20px;
+  }
+
+  /*== End Form Part Section ==**/
+  /*============================================= END ADMISSION PART============*/
+
+  /*============================================= START MENTOR PART============*/
+  #mentor-top .container {
+    margin: 30px auto 10px auto;
+}
+  #mentor-top h1 {
+    font-size: 30px;
+  }
+
+  #mentor-head h2 {
+    font-size: 25px;
+    margin: 5px 0px 0px 0px;
+  }
+  #mentor-section-1 {
+    padding-bottom: 20px;
+}
+  #mentor-section-1 h3 {
+    font-size: 22px;
+  }
+
+  /*============================================= END MENTOR PART============*/
+
+  /*============================================= START CONTACT PART============*/
+  #contact-map {
+    padding: 30px 0px 0px 0px;
+}
+  #contact-top h1 {
+    font-size: 30px;
+  }
+
+  #contact-map i {
+    font-size: 25px;
+  }
+
+  #contact-map p {
+    font-size: 15px;
+  }
+
+  #contact-map #image-small img {
+    width: 47%;
+    margin: 0 auto;
+  }
+
+  #contact-map #image-middle img {
+    width: 46%;
+  }
+
+  #contact-map #image-big img {
+    width: 45%;
+  }
+
+  #contact-map .google-map {
+    padding-top: 10px;
+  }
+
+  #contact-map .google-map iframe {
+    width: 100%;
+    height: 400px;
+  }
+
+  #contact-map form h2 {
+    padding: 5px 0px;
+  }
+
+  #contact-map .info-content .single-info-box {
+    position: relative;
+  }
+
+  #contact-map .info-content .info-column {
+    margin-left: -21%;
+    max-width: 60%;
+    padding-left: 105px;
+    margin-right: 30px;
+  }
+
+  #contact-map .contact-form-area .form-inner .form-group textarea {
+    width: 100%;
+  }
+  #contact-map .contact-form-area .form-inner .form-group {
+    margin-bottom: 20px;
+}
+
+
+  /*============================================= END CONTACT PART============*/
+
+  /*============================================= START DETAILS PART============*/
+
+  #course-top h1 span {
+    font-size: 22px;
+  }
+
+#course-overall {
+    padding: 5px 0px;
+    margin: 0 15px;
+}
+
+  #course-overall h3 {
+    font-size: 25px;
+    margin: 10px 0px 25px 0px;
+  }
+
+  #course-overall .course-relaed-2 {
+    padding-left: 15px;
+  }
+
+  #course-overall h5 {
+    text-transform: uppercase;
+    color: #07a7d8;
+    font-size: 14px;
+  }
+
+  #course-overall p {
+    font-size: 14px;
+  }
+
+  #course-overall h4 {
+    font-size: 20px;
+  }
+
+  #course-overall .related-item a {
+    font-size: 18px;
+  }
+
+  #course-overall .related-item i {
+    font-size: 19px;
+    padding: 5px;
+  }
+
+  #overview-section h3 {
+    margin: 20px 0px 20px 0px;
+    font-size: 25px;
+  }
+
+  #overview-section p {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+
+  #overview-section p:last-child {
+    margin-bottom: 5px;
+  }
+
+  #course-module h3 {
+    margin: 15px 0px 15px 0px;
+    font-size: 25px;
+    padding: 10px 0px;
+  }
+
+  #course-module .upcoming h4 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+  }
+
+  #course-module .module-item p {
+    font-size: 18px;
+  }
+
+  #course-module .upcoming h2 {
+    margin-top: 17px;
+    font-size: 20px;
+  }
+
+  #course-module .upcoming p {
+    font-size: 30px;
+  }
+
+  #course-module .upcoming a {
+    padding: 5px 20px;
+    font-size: 25px;
+  }
+
+  #course-module .upcoming .footer {
+    margin-top: 30px;
+  }
+
+  #course-module .upcoming .footer h5 {
+    font-size: 20px;
+  }
+
+  #course-module .upcoming .footer p {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  #course-module .upcoming .footer p:last-child {
+    margin-bottom: 15px;
+  }
+
+  #course-module .requirement h3 {
+    margin-top: 0px;
+    font-size: 25px;
+  }
+
+  #course-module .requirement p {
+    font-size: 20px;
+  }
+
+  #course-module .enroll a {
+    padding: 5px 20px;
+    font-size: 25px;
+  }
+
+  #course-module {
+    padding-bottom: 20px;
+  }
+
+  /*============================================= END DETAILS PART============*/
+
+  /*============================================= START BLOG PART============*/
+  #blog-search {
+    margin-bottom: 0px;
+  }
+
+  #blog-news .left-item {
+    max-width: 49%;
+    margin: 5px auto;
+}
+  #blog-news .left-item .blog-title h6 {
+    font-size: 12px;
+  }
+
+  #blog-news .left-item .small-right {
+    margin-left: 8px;
+  }
+
+  #blog-news .left-item .blog-small p {
+    margin-bottom: 5px;
+    font-size: 10px;
+  }
+
+  #blog-news .left-item .blog-body p {
+    font-size: 13px;
+  }
+
+  #blog-news .left-item .blog-link a {
+    padding: 5px 9px;
+    font-size: 16px;
+  }
+
+  #blog-news .blog-rigth .follow-button button {
+    padding: 5px 4px;
+    font-size: 15px;
+  }
+
+  #blog-news .blog-rigth .follow-img-title p {
+    font-size: 12px;
+  }
+
+  #blog-news .blog-rigth .follow-image img {
+    height: 60px;
+  }
+  #popular-news {
+    padding-top: 30px;
+}
+#popular-news-1 {
+  padding: 20px 0px 30px 0px;
+}
+  #popular-news-1 .left-item {
+    /*max-width: 31%;*/
+    padding: 8px;
+  }
+
+  #popular-news-1 .left-item .blog-link a {
+    padding: 4px 9px;
+    font-size: 15px;
+  }
+  #popular-news h3::after {
+    left: 7%;
+}
+#popular-news-1 .left-item .blog-small p {
+  font-size: 11px;
+}
+  /*============================================= END BLOG PART============*/
+
+  /*============================================= START BLOG DETAILS PART============*/
+  #blog-details .form-inline .form-control {
+    width: 75%;
+  }
+
+  #blog-details .blog-rigth .follow-button button {
+    padding: 5px 4px;
+    font-size: 15px;
+  }
+
+  #blog-details .left-item img {
+    height: 270px;
+  }
+
+  #blog-details .left-item .blog-title h6 {
+    font-size: 20px;
+  }
+
+  #blog-details .left-item .blog-small p {
+    font-size: 11px;
+  }
+
+  #blog-details .left-item .blog-body p {
+    font-size: 15px;
+  }
+
+  #blog-details .blog-rigth .follow-img-title p {
+    font-size: 13px;
+  }
+
+  #blog-details .blog-rigth .follow-image img {
+    height: 62px;
+  }
+
+  #blog-details h4 {
+    font-size: 17px;
+  }
+
+  #blog-details .related-item a {
+    font-size: 15px;
+  }
+
+  #blog-details .related-item i {
+    font-size: 14px;
+  }
+
+  #blog-share .share-title p {
+    font-size: 25px;
+  }
+
+  #blog-share .share-link ul {
+    margin-left: -25px;
+  }
+
+  #blog-comment button {
+    font-size: 18px;
+  }
+
+  /*============================================= END BLOG DETAILS PART============*/
+
+  
+  /*============================================= Start Student Feedback Section ============*/
+  #student-image {
+    padding: 20px 0px 30px 0px;
+}
+  #student-image img {
+    height: 350px;
+  }
+  #student-feedback-section {
+    padding: 30px 0px;
+}
+  #student-feedback-section h2 {
+    font-size: 25px;
+    padding-top: 5px;
+  }
+
+  #student-feedback-section .feedback-video {
+    width: 50%;
+    margin: 20px;
+  }
+
+  #student-feedback-section .col {
+    margin-left: 0px;
+  }
+
+  #student-feedback-section .feedback-title {
+    width: 39%;
+    margin-left: 10px;
+  }
+
+  #student-feedback-section .feedback-video iframe {
+    height: 200px;
+  }
+
+  #student-feedback-section .feedback-title h4 {
+    margin-top: 30%;
+    font-size: 25px;
+  }
+
+  #student-feedback-section .feedback-title p {
+    font-size: 20px;
+    color: #364954;
+  }
+  #student-feedbaack-bottom {
+    padding: 20px 0px;
+}
+  #student-feedbaack-bottom .feedback-bottom-item {
+    padding: 15px 10px 1px 10px;
+    margin: 10px 0px;
+  }
+
+  #student-feedbaack-bottom .feedback-bottom-item h6 {
+    font-size: 18px;
+  }
+
+  #student-feedbaack-bottom .feedback-bottom-item small {
+    font-size: 18px;
+  }
+
+  #student-feedbaack-bottom .feedback-bottom-text {
+    margin-top: 10px;
+  }
+
+  #student-feedbaack-bottom .feedback-bottom-item p {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  #student-feedbaack-bottom .feedback-footer ul li {
+    padding: 0px 5px;
+  }
+
+  /*============================================= End Student Feedback Section ============*/
+
+  /*============================================= Start Gallery Section ============*/
+  #gallery-slider img {
+    height: 350px;
+    margin-top: 25px;
+  }
+
+  #gallery-image-button img {
+    height: 165px;
+    margin: 10px 0px;
+  }
+
+  #gallery-image-button button {
+    padding: 3px 15px;
+    font-size: 17px;
+  }
+
+  #gallery-image-button .button {
+    margin: 20px 0px;
+  }
+
+  #gallery-image-button {
+    margin: 10px 0px;
+  }
+
+  #gallery-slider img {
+    height: 360px;
+  }
+
+  /*============================================= End Gallery Section ============*/
+
+  /*============================================= Start Career Section ============*/
+  #career-top a {
+    margin-right: 5px;
+    font-size: 15px;
+  }
+
+  #career-top h2 {
+    font-size: 25px;
+  }
+
+  #career-top .career-right .sign a {
+    padding: 2px 6px;
+  }
+
+  #career-bottom h4 {
+    margin-top: 0px;
+    font-size: 22px;
+  }
+
+  #career-bottom .title a {
+    font-size: 18px;
+  }
+
+  #career-bottom .apply a {
+    font-size: 18px;
+  }
+
+  #career-bottom .jobs {
+    padding: 5px;
+  }
+
+  #career-bottom .jobs .image img {
+    width: 145px;
+  }
+
+  #career-bottom .pagination a {
+    font-weight: 600;
+    font-size: 16px;
+  }
+
+  /*============================================= End Career Section ============*/
+
+  /*============================================= Start Seminar Section ============*/
+  #seminar-top h1 {
+    margin: 20px 0px 15px 0px;
+}
+  #seminar-middle .container {
+    padding-bottom: 10px;
+  }
+
+  #seminar-middle h4 {
+    font-size: 22px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right {
+    margin-left: 10px;
+  }
+
+  #seminar-middle .seminar-item img {
+    height: 120px;
+    width: 140px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right p {
+    margin-top: 5px;
+    font-size: 15px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right h5 {
+    font-size: 20px;
+  }
+
+  #seminar-middle .seminar-button a {
+    padding: 3px 10px;
+    font-size: 20px;
+  }
+
+  #seminar-middle .seminar-button {
+    margin-top: 50px;
+  }
+
+  /*============================================= End Seminar Section ============*/
+
+  /*============================================= Start Social Activity Section ============*/
+  #social-image img {
+    width: 100%;
+    height: 350px;
+    margin-bottom: 10px;
+  }
+  #social-gallery {
+    margin: 30px 0px;
+}
+  #social-gallery h2 {
+    font-size: 25px;
+    margin: 15px 0px;
+  }
+
+  #social-gallery .gallert-text-top h3 {
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  #social-gallery img {
+    width: 100%;
+  height: 280px;
+margin-top: 5px;}
+  #social-gallery .gallery-text p {
+    margin-top: 5px;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  #social-gallery .gallery-text a {
+    padding: 3px 10px;
+    font-size: 16px;
+  }
+
+  /*============================================= End Social Activity Section ============*/
+
+  /*============================================= Start Social Activity Details Section ============*/
+  #social-gallery-details img {
+    height: 290px;
+    margin: 15px 0px 10px 0px;
+  }
+ 
+
+  #social-gallery-details .gallert-text-top h3 {
+    font-size: 25px;
+  }
+
+  #social-gallery-details .gallery-text p {
+    margin-top: 5px;
+    font-size: 18px;
+  }
+
+  #social-gallery-details .gallery-text p {
+    font-size: 18px;
+    margin-bottom: 4px;
+  }
+
+  /*============================================= End Social Activity Details Section ============*/
+}
+
+/*================================================================================================================================================================================================================================================== End 991px ===================================================================================================================================================================================================================*/
+/*=================================================*/
+
+/*====== START 767 px =====*/
+
+@media (max-width: 767px) {
+  .navbar {
+    padding: 8px 20px;
+  }
+ 
+  .navbar-toggler-icon {
+    width: 1.3em;
+    height: 1.3em;
+  }
+
+  .navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    border: 2px solid rgb(145, 145, 145);
+  }
+
+  .navbar ul li {
+    padding: 0px 18px;
+    margin-bottom: -12px;
+  }
+
+  /*=============================================== INDEX PART =============*/
+  .navbar {
+    margin-bottom: 10px;
+    -webkit-box-shadow: 8px 8px 8px rgb(201, 201, 201);
+    -moz-box-shadow: 8px 8px 8px rgb(201, 201, 201);
+            box-shadow: 8px 8px 8px rgb(201, 201, 201);
+  }
+ /*Start Slider Section*/
+ #index-section .carousel-item img{
+  height: 250px;
+}
+  /*End Slider Section*/
+  /*== StartWellcome Section ==*/
+  #wellcome-area .wellcome-part h1 {
+    font-size: 21px;
+    padding-bottom: 15px;
+  }
+
+  #wellcome-area .wellcome-part p {
+    font-size: 15px;
+    margin-top: 10px;
+  }
+
+  #wellcome-area .course-part h1 {
+    font-size: 25px;
+    padding: 10px 0;
+  }
+  #wellcome-area .card-part .card-item .item {
+    max-width: 90%;
+    margin-left: 25px;
+}
+#wellcome-area .card-part .card img {
+  height: 240px;
+}
+#wellcome-area .card-part .card .card-item-footer {
+  width: 95%;
+}
+  /*== End Wellcome Section ==*/
+
+  /*== Start Facility Section ==*/
+
+  #facility-section h2 {
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+
+  #facility-section .facility-item {
+    max-width: 95%;
+    padding: 0px 80px;
+  }
+
+  #facility-section h3 {
+    font-size: 20px;
+  }
+
+  #facility-section p {
+    font-size: 15px;
+  }
+
+  #facility-section .facility-2 {
+    margin-top: 0px;
+  }
+
+  /*== End Facility Section ==*/
+
+  /** Start Video Section **/
+
+
+  #video-section p {
+    font-size: 15px;
+    width: 100%;
+  }
+
+  #video-section h2 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: -8px;
+  }
+
+  /** End Video Section **/
+
+  /*== Start Leader Section ==*/
+  #leader-section h2 {
+    font-size: 25px;
+    padding-bottom: 5px;
+  }
+
+  #leader-section .carousel-inner img {
+    width: 150px;
+    height: 150px;
+  }
+
+  #leader-section .card-body p {
+    font-size: 12px;
+  }
+
+  #leader-section .card-body h5 {
+    font-size: 16px;
+  }
+
+  #leader-section .card-body span {
+    font-size: 17px;
+  }
+
+  #leader-section .card-body {
+    padding-left: 0px;
+  }
+
+  /*== End Leader Section ==*/
+
+  /*== Start Batch Section ==*/
+  #batch-section h2 {
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+
+  #batch-section .batch-item {
+    height: 170px;
+  }
+
+  #batch-section .batch-item .batch-bottom {
+    margin-top: 5px;
+  }
+
+  #batch-section .batch-item:last-child {
+    margin-left: 28px;
+  }
+
+  #batch-section .batch-item img {
+    width: 105px;
+    height: 125px;
+    margin-top: 25px;
+    margin-left: -15px;
+  }
+
+  #batch-section .batch-item .batch-details {
+    padding-left: 5px;
+  }
+
+  #batch-section .batch-item .batch-top p {
+    font-size: 12px;
+  }
+
+  #batch-section .batch-item .batch-top small {
+    font-size: 12px;
+  }
+
+  /*== End Batch Section ==*/
+
+  /*== Start Video Section ==*/
+  #video-section .video-part iframe {
+    height: 275px;
+    margin-top: 0px;
+  }
+
+  /*== End Video Section ==*/
+
+  /*== Start Student Section ==*/
+#student-section h2 {
+    font-size: 25px;
+    padding-bottom: 12px;
+    margin-top: -6px;
+}
+
+  #student-section .no-gutters>[class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  #student-section .carousel-inner img {
+    width: 130px;
+    height: 130px;
+    margin-top: 10px;
+  }
+
+  #student-section .card-body {
+    margin-top: -18px;
+  }
+
+  #student-section .card-body p {
+    font-size: 14px;
+    padding: 0px 10px;
+  }
+
+  #student-section .stu-footer h3 {
+    font-size: 21px;
+    margin-top: 165px;
+  }
+
+  #student-section .stu-footer p {
+    font-size: 16px;
+  }
+
+  /*== End Student Section ==*/
+
+  /*== Start Feedback Section ==*/
+  #feedback-section form {
+    margin-top: 40px;
+  }
+
+  #feedback-section .carousel-control-next {
+    margin-right: 200px;
+  }
+
+  #feedback-section .carousel-control-prev {
+    margin-left: 200px;
+  }
+
+  #feedback-section img {
+    margin: 5px;
+  }
+
+  #feedback-section .feedback-p p {
+    margin-bottom: 5px;
+  }
+
+  #feedback-section form {
+    margin-top: 50px;
+    padding: 20px 30px;
+  }
+
+  /*== End Feedback Section ==*/
+
+  /*== Start Footer Top logo ==*/
+
+  #footer-top .img img {
+    width: 90px;
+    height: 90px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+  }
+
+  /*== End Footer Top logo ==*/
+
+  /*== Start Footer Top Social icon ==*/
+  #footer-icon .icon i {
+    font-size: 34px;
+    width: 30px;
+    height: 0px;
+    margin: 0 auto;
+  }
+
+  #footer-icon .icon {
+    padding: 5px;
+    width: 49px;
+  }
+
+  /*== End Footer Top Social icon ==*/
+
+  /*== Start Footer Top ==*/
+  #footer-top .right {
+    float: left;
+  }
+
+  #footer-top .left img {
+    width: 170px;
+    margin-top: 0px;
+  }
+
+  #footer-top .left {
+    margin-right: 50px;
+  }
+
+  #footer-top .col-lg-4.col-md-4.col-sm-12.contact-last {
+    margin-left: 65px;
+  }
+
+  #footer-top p a {
+    font-size: 14px;
+  }
+
+  #footer-top p {
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-left: -1px;
+  }
+
+  #footer-top h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  #footer-top .contact-last h4 {
+    margin-top: 21px;
+    margin-bottom: 7px;
+  }
+
+  #footer-top .home .icon i {
+    margin-top: 8px;
+  }
+
+  #footer-top .home p {
+    margin-top: 1px;
+  }
+
+  #footer-top .phone .phn-icon i {
+    margin-top: -7px;
+  }
+
+  #footer-top .email .email-icon i {
+    margin-top: -7px;
+  }
+
+  /*== End Footer Top ==*/
+
+  /**Footer Section**/
+  #footer p {
+    font-size: 13px;
+  }
+
+  /**End Footer Section**/
+  /*=============================================== END INDEX PART =============*/
+
+  /*=============================================== START ABOUT PART =============*/
+  #header-top {
+    margin: 25px 0px;
+}
+#header-bottom {
+  padding: 0px 0px 20px 0px;
+}
+#header-bottom h4 {
+  padding-bottom: 10px;
+}
+#header-bottom p {
+  margin-bottom: 0px;
+}
+  /**Start  Mission Section**/
+  #mission-section {
+    padding: 20px 0px;
+}
+#mission-section .mission-2 {
+  margin-top: 20px;
+}
+
+  #header-bottom img {
+    height: 280px;
+    margin-bottom: 10px;
+}
+  #mission-section img {
+    height: 210px;
+    width: 75%;
+}
+
+  /**End  Mission Section**/
+
+  /**Start  Choose Section**/
+  #choose-section {
+    padding: 20px 0px 10px 0px;
+  }
+
+  #choose-section p {
+    font-size: 15px;
+    width: 104%;
+    margin-bottom: 0px;
+  }
+
+  #choose {
+    padding: 10px 0px;
+    padding-bottom: 20px;
+  }
+
+  #choose .choose-item {
+    max-width: 86%;
+    padding: 31px 25px;
+    margin: 10px auto;
+  }
+
+  /**End  Choose Section**/
+
+  /**Start  Mentors Section**/
+  #mentor-top .container {
+    margin: 25px auto 10px auto;
+}
+#mentor-head h2 {
+ padding: 0px;
+ margin-top: 10px;
+}
+  #mentor-section-top {
+    padding-top: 20px;
+}
+  #mentor-section img {
+    width: 160px;
+    height: 160px;
+  }
+
+  #mentor-section h3 {
+    font-size: 23px;
+  }
+
+  /**End  Mentors Section**/
+
+  /*=============================================== END ABOUT PART =============*/
+
+  /*============================================= START COURSE PART============*/
+
+  /** Start Course Header Section**/
+  #course-top .container {
+    margin: 25px auto 15px auto;
+}
+  #course-top h1 {
+    font-size: 20px;
+  }
+
+  /**End  Course Header Section**/
+
+  /** Start Graphic Design Section**/
+  #graphic-top {
+    padding: 20px 0px 0px 0px;
+  }
+
+  #graphic-top h3 {
+    font-size: 20px;
+  }
+
+  #graphic-top p {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  #graphic-bottom {
+    padding-bottom: 20px;
+}
+  #graphic-bottom .grap-all .course-item {
+    margin: 7px 0px;
+}
+  #graphic-bottom img {
+    height: 200px;
+  }
+  #graphic-bottom .grap-all .card .card-bottom a {
+    font-size: 15px;
+    padding: 7px 15px;
+}
+  #graphic-bottom h5 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+
+  
+
+  /**End  Graphic Design Section**/
+
+  /**Start  Digital marketing Section**/
+  #digital-top {
+    padding: 20px 0px 0px 0px;
+  }
+  #digital-top .digital-item-order-2{
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2;
+  }
+  #digital-top .digital-item-order-1{
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+  #digital-top h3 {
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
+  #digital-top p {
+    margin-bottom: 0px;
+}
+  #digital-top img {
+    margin-bottom: 10px;
+}
+#digital-secttion {
+  padding: 20px 0px;
+}
+#digital-secttion .grap-all .course-item {
+  margin: 7px 0px;
+}
+#digital-secttion img {
+  height: 200px;
+}
+#digital-secttion .grap-all .card .card-bottom a {
+  font-size: 15px;
+  padding: 7px 15px;
+}
+#digital-secttion h5 {
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+
+  /**End  Digital marketing Section**/
+
+  /**Start Web Development Section**/
+  #web-top {
+    padding: 20px 0px 10px 0px;
+  }
+
+  #web-top h3 {
+    font-size: 20px;
+  }
+
+  #web-top p {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  #web-bottom {
+    padding-bottom: 20px;
+}
+#web-bottom .grap-all .course-item {
+    margin: 7px 0px;
+}
+#web-bottom img {
+    height: 200px;
+  }
+  #web-bottom .grap-all .card .card-bottom a {
+    font-size: 15px;
+    padding: 7px 15px;
+}
+#web-bottom h5 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+  /**End Web Development Section**/
+
+
+  /*============================================= END COURSE PART============*/
+
+  /*============================================= START ADMISSION PART============*/
+
+  /**Start Admission Header Section**/
+  #form-section-top .container {
+    margin: 25px auto 10px auto;
+}
+  #admission-top h1 {
+    font-size: 20px;
+  }
+
+  #add-header-bottom p {
+    font-size: 15px;
+    margin-bottom: 0px;
+  }
+
+  /**End Admission Header Section**/
+
+  /**Start Form Part Section**/
+  #form-body form {
+    padding-bottom: 25px;
+}
+  #form-section-top h3 {
+    font-size: 20px;
+  }
+
+  #form-body form .edu h3 {
+    font-size: 20px;
+  }
+
+  /**End Form Part Section**/
+
+  /*============================================= END ADMISSION PART============*/
+
+  /*============================================= START MENTOR PART============*/
+  #mentor-top h1 {
+    font-size: 23px;
+    margin-top: 9px;
+  }
+
+  #mentor-head h2 {
+    font-size: 22px;
+  }
+
+  #mentor-section-1 h3 {
+    font-size: 18px;
+  }
+
+  #mentor-section-1 h6 {
+    font-size: 15px;
+  }
+
+  #mentor-section-1 p {
+    font-size: 15px;
+    padding: 0px 20px;
+  }
+
+  /*============================================= END MENTOR PART============*/
+
+  /*============================================= START CONTACT PART============*/
+  #contact-top h1 {
+    font-size: 25px;
+  }
+
+  #contact-map {
+    padding-top: 0px;
+  }
+
+  #contact-map form h2 {
+    padding: 0px 0px;
+    font-size: 20px;
+  }
+
+  #contact-map form {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+
+  #contact-map .google-map iframe {
+    height: 250px;
+  }
+
+  #contact-map .info-content {
+    margin-top: 125px;
+  }
+
+  #contact-map .info-content .single-info-box .text {
+    margin-left: -14px;
+  }
+  #contact-map #image-small img {
+    width: 19%;
+    margin-top: 35px;
+}
+
+#contact-map #image-middle img {
+  width: 19%;
+}
+#contact-map .contact-form-area .sec-title h2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#contact-map .sec-title h2 {
+  padding-bottom: 20px;
+}
+  #contact-map #image-big img {
+    width: 19%;
+
+  }
+  #contact-map .contact-item .text {
+    text-align: center;
+    padding: 15px;
+}
+#contact-map .contact-form-area .form-inner .form-group {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.map .google-map iframe {
+  width: 100%;
+  height: 300px;
+  margin-top: 10px;
+}
+
+  /*============================================= END CONTACT PART============*/
+
+  /*============================================= START DETAILS PART============*/
+  #course-top h1 span {
+    font-size: 18px;
+  }
+
+  #course-overall h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+
+  #course-overall .course-relaed {
+    margin-bottom: 30px;
+  }
+
+  #course-overall img {
+    height: 250px;
+  }
+
+  #course-overall h5 {
+    font-size: 16px;
+  }
+
+  #overview-section h3 {
+    font-size: 20px;
+  }
+
+  #course-module h3 {
+    font-size: 20px;
+    padding: 5px 0px;
+  }
+
+  #course-module .upcoming h4 {
+    font-size: 18px;
+  }
+
+  #course-module .upcoming h2 {
+    font-size: 18px;
+  }
+
+  #course-module .upcoming h6 {
+    font-size: 23px;
+    margin-bottom: 25px;
+  }
+
+  #course-module .upcoming .footer h5 {
+    font-size: 18px;
+  }
+
+  #course-module .upcoming .footer p {
+    font-size: 15px;
+  }
+
+  #course-module .upcoming h6 {
+    font-size: 18px;
+  }
+
+  #course-module .module-item {
+    margin-bottom: 10px;
+  }
+
+  #course-module .module-item p {
+    font-size: 15px;
+  }
+
+  #course-module .requirement h3 {
+    font-size: 20px;
+  }
+
+  #course-module .requirement p {
+    font-size: 17px;
+  }
+
+  #course-module .requirement {
+    padding-bottom: 20px;
+  }
+
+  #course-module .enroll a {
+    padding: 5px 20px;
+    font-size: 20px;
+  }
+
+  /*============================================= END DETAILS PART============*/
+
+  /*============================================= START BLOG PART============*/
+  #blog-search h3 {
+    font-size: 20px;
+    margin: 10px 0px 0px 20px;
+  }
+  #blog-search form{
+    margin-right: 20px;
+  }
+  #blog-search h3::after {
+    width: 30%;
+    margin-left: 10px;
+}
+#blog-news .left-item img {
+  height: 220px;
+}
+  #blog-news .blog-rigth h5 {
+    font-size: 18px;
+    margin: 20px 0px 10px 15px;
+  }
+  #blog-news .blog-rigth .blog-social ul {
+    margin-left: 15px;
+  }
+  #blog-news .blog-rigth .follow-image img {
+    height: 100px;
+  }
+  #blog-news .blog-rigth .follow-img-title {
+    background: #f5f9fa;
+    border: 1px solid rgb(102, 102, 102);
+    border-radius: 5px;
+    width: 95%;
+    margin: 10px auto;
+}
+  #blog-news .blog-rigth .follow-img-title p {
+    font-size: 17px;
+  }
+  #blog-news .blog-rigth .follow-button {
+    margin: 0px 0px 0px 15px;
+  }
+
+  #popular-news {
+    padding-top: 20px;
+}
+  #popular-news h3 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  #popular-news h3::after {
+    left: 0; 
+    margin: 0 auto;
+}
+#popular-news-1 {
+  padding: 10px 0px 25px 0px;
+}
+  #popular-news-1 .left-item {
+    max-width: 88%;
+    margin: 5px auto;
+}
+
+  #popular-news-1 .left-item .blog-title h6 {
+    font-size: 14px;
+  }
+
+  /*============================================= END BLOG PART============*/
+
+  /*============================================= START BLOG DETAILSPART============*/
+  #blog-details .left-item .blog-title h6 {
+    font-size: 17px;
+  }
+
+  #blog-details .left-item .blog-small p {
+    font-size: 11px;
+  }
+
+  #blog-details .blog-rigth .follow-image img {
+    height: 120px;
+  }
+
+  #blog-details .blog-rigth .follow-img-title p {
+    font-size: 18px;
+    margin-top: 35px;
+  }
+
+  #blog-details h4 {
+    margin-top: 10px;
+    width: 37%;
+    border-radius: 10px;
+  }
+
+  #blog-details .related-item a:last-child {
+    margin-bottom: 10px;
+  }
+
+  #blog-share .share-title p {
+    font-size: 20px;
+  }
+
+  #blog-share .share-link i {
+    font-size: 35px;
+  }
+
+  #blog-author p {
+    font-size: 20px;
+  }
+
+  #blog-author i {
+    font-size: 18px;
+  }
+
+  #blog-author .author {
+    margin-top: 5px;
+  }
+
+  #blog-comment h6 {
+    font-size: 20px;
+  }
+
+  #blog-comment {
+    padding-top: 0px;
+  }
+
+  /*============================================= END BLOG DETAILSPART============*/
+
+ 
+
+  /*============================================= Start Student Feedback Section ============*/
+  #student-image {
+    padding-bottom: 20px;
+  }
+
+  #student-image img {
+    height: 230px;
+  }
+
+  #student-feedback-section h2 {
+    font-size: 20px;
+    padding-top: 0px;
+  }
+
+  #student-feedback-section .feedback-video iframe {
+    height: 185px;
+  }
+
+  #student-feedback-section .feedback-title h4 {
+    margin-top: 30%;
+    font-size: 20px;
+  }
+
+  #student-feedback-section .feedback-title p {
+    font-size: 16px;
+  }
+
+  #student-feedback-section .feedback-title h4 {
+    margin-top: 40%;
+    font-size: 20px;
+  }
+
+  #student-feedback-section .feedback-video {
+    width: 60%;
+    margin: 10px;
+  }
+
+  #student-feedback-section .feedback-title {
+    width: 34%;
+    margin-left: 5px;
+  }
+
+  #student-feedback-section {
+    padding: 20px 0px;
+  }
+
+  /*============================================= End Student Feedback Section ============*/
+
+  /*============================================= Start Gallery Section ============*/
+  #gallery-image-button {
+    margin-top: 5px;
+  }
+
+  #gallery-slider img {
+    height: 286px;
+    margin-top: 20px;
+  }
+
+  #gallery-image-button img {
+    height: 190px;
+    width: 80%;
+  }
+
+  /*============================================= End Gallery Section ============*/
+
+  /*============================================= Start Career Section ============*/
+  #career-top {
+    padding: 15px 0px;
+  }
+
+  #career-top .career-right {
+    float: right;
+  }
+
+  #career-top .career-right .post-cv {
+    float: left !important;
+  }
+
+  #career-top .career-right .sign-in {
+    float: left !important;
+  }
+
+  #career-top h2 {
+    font-size: 20px;
+    padding-right: 10px;
+  }
+
+  #career-bottom h4 {
+    font-size: 20px;
+  }
+
+  #career-bottom .apply {
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(179, 179, 179);
+    margin-bottom: 20px;
+  }
+
+  /*============================================= End Career Section ============*/
+
+  /*============================================= Start Seminar Section ============*/
+  #seminar-top h1 {
+    font-size: 25px;
+}
+  #seminar-middle h4 {
+    font-size: 20px;
+  }
+
+  #seminar-middle .seminar-item img {
+    height: 100px;
+    width: 125px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right {
+    margin-left: 40px;
+    margin-top: 10px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right {
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right h5 {
+    font-size: 18px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right p {
+    font-size: 14px;
+  }
+  #seminar-middle h4 {
+    margin: 20px 0px 15px 0px;
+    
+}
+  #seminar-middle .seminar-button a {
+    padding: 2px 8px;
+    font-size: 18px;
+  }
+
+  #seminar-middle .seminar-button {
+    margin-top: 45px;
+  }
+  
+  /*============================================= End Seminar Section ============*/
+
+  /*============================================= Start Social Activity Section ============*/
+  #social-gallery {
+    margin: 20px 0px;
+  }
+
+  #social-image img {
+    height: 250px;
+    margin-bottom: 10px;
+  }
+
+  #social-gallery h2 {
+    font-size: 22px;
+  }
+
+  #social-gallery .gallert-text-top small {
+    padding: 1px 5px;
+  }
+
+  #social-gallery .gallery-text p {
+    margin-top: 3px;
+    font-size: 15px;
+    text-align: justify;
+  }
+
+  #social-gallery img {
+    height: 237px;
+    margin-top: 40px;
+  }
+
+  /*============================================= End Social Activity Section ============*/
+
+  /*============================================= Start Social Activity Details Section ============*/
+  #social-gallery-details img {
+    height: 260px;
+  }
+
+  #social-gallery-details .gallert-text-top h3 {
+    font-size: 20px;
+    margin: 10px 0px 15px 0px;
+  }
+
+  #social-gallery-details .gallery-text p {
+    font-size: 16px;
+  }
+
+  /*============================================= End Social Activity Details Section ============*/
+}
+
+/*=============================================================================================================================================================================== End 767 px ==========================================================================================================================================*/
+/*=========================================================================================================================================*/
+
+/*======================================================================================================================================================================================= Start 575 px========================================================================================================================= =====*/
+
+@media (max-width: 575px) {
+  /*=============================================== INDEX PART =============*/
+
+  /**Start Header top Section**/
+  #header-icon {
+    display: none;
+  }
+
+  /**End Header top Section**/
+
+  /*navbar*/
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 17px;
+  }
+
+  .navbar .dropdown-menu a {
+    font-size: 16px;
+    /* width: 40%; */
+  }
+
+  .navbar-nav .dropdown-menu {
+    width: 62%;
+    background: #f3f3f3;
+  }
+
+  /*End navbar*/
+
+
+  /*Start Slider Section*/
+#index-section .carousel-item img{
+  height: 200px;
+}
+  /*End Slider Section*/
+
+
+  /**Start Wellcome Section**/
+  #wellcome-area {
+    padding: 20px 0px 30px 0px;
+}
+  #wellcome-area .wellcome-part h1 {
+    font-size: 18px;
+    padding-bottom: 5px;
+    line-height: 25px;
+  }
+  #wellcome-area .wellcome-part img {
+    height: 200px;
+}
+  #wellcome-area .course-part h1 {
+    font-size: 20px;
+    padding: 5px 0;
+  }
+    #wellcome-area .card-part .card-item .item {
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+  #wellcome-area .card-part .card img {
+    height: 170px;
+}
+  #wellcome-area .button {
+    margin-top: 15px;
+  }
+
+  #wellcome-area .button a {
+    padding: 8px 15px;
+    font-size: 15px;
+  }
+
+  /**End Wellcome Section**/
+
+  /** Start Facility Section**/
+  #facility-section {
+    padding: 20px 0px;
+}
+    #facility-section h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+        padding-top: 5px;
+    }
+
+  #facility-section .facility-item {
+    padding: 0px 25px;
+  }
+
+  #facility-section i {
+    font-size: 35px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  #facility-section h3 {
+    font-size: 18px;
+  }
+
+  /**End Facility Section**/
+
+  /** Start Leader Section **/
+  #leader-section {
+    padding: 20px 0px 0px 0px;
+  }
+
+  #leader-section h2 {
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+
+  #leader-section .no-gutters>[class*="col-"] {
+    text-align: center;
+  }
+
+  #leader-section .carousel-inner img {
+    margin-top: 10px;
+  }
+
+  #leader-section .card-body {
+    padding-left: 10px;
+  }
+
+  #leader-section .card-body {
+    margin-top: -20px;
+  }
+
+  /** End Leader Section **/
+
+  /** Start Batch Section **/
+  #batch-section {
+    padding: 20px 0px;
+}
+  #batch-section h2 {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+
+  #batch-section .col-sm-12 {
+    max-width: 100%;
+    margin-left: 0px;
+    margin: 5px;
+  }
+
+  #batch-section .batch-item {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  #batch-section .batch-item:last-child {
+    margin-left: 15px !important;
+    margin: 5px;
+  }
+
+  #batch-section .batch-image {
+    width: 30%;
+  }
+
+  #batch-section .batch-details {
+    width: 60%;
+    padding-left: 40px;
+  }
+
+  #batch-section .batch-item .batch-details {
+    padding-left: 35px;
+  }
+
+  #batch-section .batch-row-2 {
+    margin-top: 0px;
+  }
+  #batch-section .batch-item{
+    
+    margin-bottom: 5px;
+  }
+  /** End Batch Section **/
+
+  /** Start Video Section **/
+  #video-section .video-part iframe {
+    height: 210px;
+    margin-top: 0px;
+  }
+
+  #video-section h2 {
+    font-size: 20px;
+  }
+
+  #video-section p {
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+  /** End Video Section **/
+
+  /** Start Counter Section **/
+  #counter {
+    padding: 20px 0px 0px 0px;
+  }
+
+  #counter .start-items p {
+    font-size: 18px;
+  }
+
+  #counter .start-items span {
+    font-size: 35px;
+  }
+
+  #counter .start-items i {
+    font-size: 30px;
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+    padding-top: 15px;
+  }
+
+  /** End Counter Section **/
+
+  /** Start Student Section **/
+  #student-section {
+    padding: 20px 0px;
+}
+  #student-section h2 {
+    font-size: 20px;
+  }
+
+  #student-section .stu-footer h3 {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  #student-section .stu-footer p {
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  #feedback-section {
+    padding: 20px 0px 30px 0px;
+}
+  #feedback-section .carousel-control-prev {
+    margin-left: 110px;
+  }
+
+  #feedback-section .carousel-control-next {
+    margin-right: 110px;
+  }
+
+  #feedback-section form {
+    margin-top: 70px;
+    padding: 15px 10px;
+  }
+
+  /** End Student Section **/
+
+  /** Start Footer Top Social icon **/
+  #footer-icon .icon {
+    margin-top: 10px;
+  }
+
+  /** End Footer Top Social icon **/
+
+  /*Footer Top*/
+
+  #footer-top .phone .phn-icon i {
+    margin-top: -7px;
+  }
+
+  #footer-top .home .icon i {
+    margin-top: 0px;
+  }
+
+  #footer-top .home .icon {
+    float: left;
+    margin-top: -5px;
+  }
+
+  #footer-top .home p {
+    margin-top: 3px;
+  }
+
+  #footer-top .email .email-icon i {
+    margin-top: -11px;
+  }
+
+  #footer-top .email p {
+    margin-left: 2px;
+  }
+
+  #footer-top h2 {
+    font-size: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+  }
+
+  #footer-top .footer-left-img {
+    width: 30%;
+  }
+
+  #footer-top .footer-right-title {
+    width: 60%;
+  }
+
+  #footer-top .left {
+    float: left;
+  }
+
+  #footer-top .left img {
+    width: 140px;
+  }
+
+  #footer-top .right {
+    float: left;
+  }
+
+  #footer-top .img img {
+    width: 100px;
+    height: 90px;
+    background: #fff;
+    border-radius: 5px;
+    margin: 3px;
+    margin-bottom: 10px;
+  }
+
+  #footer-top h4 {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+  #footer-top p {
+    margin-bottom: 3px;
+  }
+
+  #footer-top p a {
+    font-size: 14px;
+  }
+
+  #footer-top .col-lg-4.col-md-4.col-sm-12.contact-last {
+    margin-left: 0px;
+  }
+
+  #footer-top .logo-hide {
+    display: none;
+  }
+
+
+  /*End Footer Top*/
+
+  /*Footer Icon*/
+  #footer-icon .icon {
+    border: 2px solid #21576f;
+    border-bottom-right-radius: 10px;
+    padding: 12px;
+    width: 75px;
+  }
+
+  #footer-icon .icon i {
+    font-size: 40px;
+  }
+
+  #footer-icon .title {
+    font-size: 14px;
+  }
+
+  #footer-icon .logo-hide {
+    display: none;
+  }
+
+  /*End Footer Icon*/
+  #footer {
+    padding: 0px 0;
+  }
+
+  /*=============================================== END INDEX PART =============*/
+
+  /*=============================================== START ABOUT PART =============*/
+
+  /* Start Header top */
+  #header-bottom {
+    padding: 10px 0px;
+  }
+  #header-top {
+    margin: 20px 0px 10px 0px;
+}
+  #header-top h1 {
+    font-size: 20px;
+    padding: 0px 0px;
+  }
+
+  /* End Header top */
+
+  /* Start About Header Section */
+  #header-bottom h4 {
+    padding-bottom: 0px;
+    font-size: 15px;
+  }
+  #header-bottom p {
+    margin-bottom: 10px;
+}
+  #header-bottom img {
+    height: 200px;
+  }
+  #header-bottom 
+  /* End About Header Section */
+
+  /* Start Mission Section */
+  #mission-section h2 {
+    padding-bottom: 5px;
+    font-size: 20px;
+  }
+
+  #mission-section {
+    padding: 15px 0px;
+  }
+
+  #mission-section img {
+    height: 145px;
+    width: 90%;
+  }
+
+  #mission-section p {
+    font-size: 14px;
+  }
+
+  /* End Mission Section */
+
+  /* Start Choose Section */
+  #choose-section {
+    padding: 20px 0px 0px 0px;
+  }
+
+  #choose-section h2 {
+    font-size: 20px;
+  }
+
+  #choose-section p {
+    font-size: 14px;
+  }
+
+
+  /* End Choose Section */
+
+  /* Start Mentors Section */
+  #mentor-top .container {
+    margin: 20px auto 10px auto;
+}
+  #mentor-section-top h2 {
+    font-size: 20px;
+  }
+  #mentor-section-1 {
+    padding-bottom: 10px;
+}
+  #mentor-section img {
+    width: 160px;
+    height: 160px;
+  }
+
+  #mentor-section h3 {
+    font-size: 18px;
+  }
+
+  #mentor-section h6 {
+    font-size: 14px;
+  }
+
+  #mentor-section p {
+    font-size: 14px;
+    padding: 0px 20px;
+  }
+
+  #mentor-section .client-footer {
+    height: 40px;
+  }
+
+  #mentor-section ul li i {
+    font-size: 23px;
+  }
+
+  /* End Mentors Section */
+
+  /*=============================================== END ABOUT PART =============*/
+
+  /*============================================= START COURSE PART============*/
+  #course-top .container {
+    margin: 20px auto 10px auto;
+}
+  /* Start Graphic Design Top */
+  #graphic-top h3 {
+    padding-bottom: 8px;
+  }
+
+  #graphic-top img {
+    height: 175px;
+  }
+
+  #graphic-top p {
+    margin-bottom: 10px;
+  }
+
+  
+
+  #graphic-bottom h5 {
+    font-size: 16px;
+  }
+
+  /* End Graphic Design Top */
+
+  /* Start Digital Top */
+  #digital-top p {
+    font-size: 14px;
+  }
+
+  #digital-top img {
+    height: 200px;
+  }
+
+  
+
+  #digital-secttion h5 {
+    font-size: 16px;
+  }
+
+  /* End Digital Top */
+
+  /* Start Web Development */
+  #web-top img {
+    height: 200px;
+  }
+
+  #web-top p {
+    font-size: 14px;
+  }
+
+  #web-bottom img {
+    height: 170px;
+  }
+
+  #web-bottom {
+    padding-bottom: 10px;
+  }
+
+  #web-bottom  h5 {
+    font-size: 16px;
+  }
+
+  /* End Web Development */
+
+  /*============================================= END COURSE PART============*/
+
+  /*============================================= START ADMISSION PART============*/
+  #form-section-top .container {
+    margin: 20px auto 10px auto;
+}
+  #admission-top h1 {
+    font-size: 18px;
+  }
+
+  #add-header-bottom p {
+    font-size: 14px;
+    margin-bottom: 0px;
+  }
+
+  #form-section-top h3 {
+    font-size: 18px;
+  }
+  #form-body form {
+    padding-bottom: 20px;
+}
+  #form-body form .edu h3 {
+    font-size: 18px;
+  }
+
+  .table-bordered thead th {
+    font-size: 13px;
+  }
+
+  #form-body form button {
+    padding: 3px 20px;
+    font-size: 18px;
+  }
+
+  /*============================================= END ADMISSION PART============*/
+
+  /*============================================= START MENTOR PART============*/
+  #mentor-top h1 {
+    font-size: 20px;
+  }
+
+  #mentor-head h2 {
+    font-size: 20px;
+  }
+
+  #mentor-section-1 img {
+    width: 160px;
+    height: 160px;
+  }
+
+  #mentor-section-1 h3 {
+    font-size: 18px;
+  }
+
+  #mentor-section-1 h6 {
+    font-size: 14px;
+  }
+
+  #mentor-section-1 p {
+    font-size: 14px;
+    padding: 0px 20px;
+  }
+
+  #mentor-section-1 .client-footer {
+    height: 40px;
+  }
+
+  #mentor-section-1 ul li i {
+    font-size: 23px;
+  }
+
+  /*============================================= END MENTOR PART============*/
+
+  /*============================================= START CONTACT PART============*/
+  #contact-top h1 {
+    font-size: 23px;
+  }
+
+  
+  #contact-map #image-small img {
+    width: 19%;
+    margin-top: 20px;
+}
+  #contact-map form ::-webkit-input-placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 15px;
+  }
+  #contact-map h2{
+    font-size: 18px;
+  }
+  #contact-map .contact-form-area .sec-title h2 {
+    font-size: 25px;
+    margin-top: 5px;
+}
+  #contact-map form ::-moz-placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #contact-map form :-ms-input-placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #contact-map form ::-ms-input-placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #contact-map form ::-webkit-input-placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  #contact-map form ::placeholder {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 15px;
+  }
+  #contact-map .contact-form-area .form-inner .form-group textarea {
+ 
+    height: 150px;
+}
+#contact-map .contact-form-area .form-inner .form-group input[type='text'] {
+  height: 45px;
+}
+#contact-map .contact-form-area .form-inner .form-group input[type='email'] {
+  height: 45px;
+}
+#contact-map .contact-form-area .form-inner .form-group i {
+  top: 15px;
+}
+  #contact-map p {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+
+  #contact-map i {
+    font-size: 20px;
+  }
+
+
+  /*============================================= END CONTACT PART============*/
+
+  /*============================================= START DETAILS PART============*/
+  #course-top h1 span {
+    font-size: 17px;
+  }
+
+  #course-overall h4 {
+    font-size: 17px;
+    margin-bottom: 0px;
+  }
+
+  #course-overall .related-item a {
+    font-size: 17px;
+  }
+
+  #course-overall img {
+    height: 200px;
+    margin-bottom: 15px;
+  }
+
+  #overview-section h3 {
+    margin: 5px 0px;
+  }
+
+  #overview-section p {
+    font-size: 14px;
+  }
+
+  #course-module .upcoming h4 {
+    font-size: 16px;
+  }
+
+  #course-module .upcoming h2 {
+    font-size: 16px;
+  }
+
+  #course-module .upcoming p {
+    font-size: 25px;
+  }
+
+  #course-module .upcoming h6 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  #course-module .upcoming .footer h5 {
+    font-size: 16px;
+  }
+
+  #course-module .upcoming .footer p {
+    font-size: 14px;
+  }
+
+  #course-module .module-item p {
+    font-size: 14px;
+  }
+
+  #course-module .requirement h3 {
+    font-size: 15px;
+  }
+
+  #course-module .requirement p {
+    font-size: 14px;
+  }
+
+  #course-module .enroll a {
+    padding: 5px 15px;
+    font-size: 18px;
+  }
+
+#course-overall .course-relaed {
+    margin: 24px 0px -29px 0px;
+}
+
+  #course-overall h5:first-child {
+    margin-top: 20px;
+  }
+
+  /*============================================= END DETAILS PART============*/
+
+  /*============================================= START BLOG PART============*/
+  #blog-search h3 {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  #blog-search h3::after {
+    width: 10%;
+    margin: 0 auto;
+    left: 0%;
+    right: 0;
+}
+#blog-search form {
+  margin-right: 4%;
+  width: 90%;
+}
+  #blog-search .form-control {
+    width: 83%;
+  }
+
+  #blog-news .left-item {
+    max-width: 96%;
+  }
+
+  #blog-news .left-item img {
+    height: 160px;
+  }
+
+  #blog-news .blog-rigth .follow-image img {
+    height: 150px;
+  }
+  #blog-news .blog-rigth .follow-img-title {
+    background: #f5f9fa;
+    border: 1px solid rgb(102, 102, 102);
+    border-radius: 5px;
+    width: 95%;
+    margin: 10px auto;
+}
+  #popular-news-1 .left-item {
+    max-width: 96%;
+  }
+
+  #popular-news-1 .left-item img {
+    height: 160px;
+  }
+
+  #popular-news h3 {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+
+  #popular-news h3::after {
+    width: 20%;
+    margin: 0 auto;
+  }
+
+  /*============================================= END BLOG PART============*/
+
+  /*============================================= START BLOG DETAILS PART============*/
+  #blog-details .left-item img {
+    height: 200px;
+  }
+
+  #blog-details .left-item .blog-title h6 {
+    font-size: 15px;
+  }
+
+  #blog-details .left-item .blog-body p {
+    font-size: 14px;
+  }
+
+  #blog-details .left-item .blog-small p {
+    font-size: 10px;
+  }
+
+  #blog-details .blog-rigth .follow-button button {
+    font-size: 13px;
+  }
+
+  #blog-details .blog-rigth .follow-image img {
+    height: 150px;
+  }
+
+  #blog-details .blog-rigth .follow-img-title p {
+    font-size: 16px;
+    margin-top: 0px;
+  }
+
+  #blog-details h4 {
+    width: 60%;
+    margin-left: 10px;
+  }
+
+  #blog-news .blog-rigth .follow-img-title {
+    margin: 10px auto;
+  }
+  #blog-details .related-item {
+    padding: 5px 20px 0px 10px;
+}
+  #blog-details .blog-rigth .follow-img-title {
+    margin: 5px 10px;
+  }
+
+  #blog-share .share-title p {
+    font-size: 20px;
+  }
+
+  #blog-comment p {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+
+  #blog-comment label {
+    font-size: 14px;
+  }
+
+  #blog-comment button {
+    font-size: 15px;
+  }
+
+  #blog-comment h6 {
+    font-size: 18px;
+  }
+
+  /*============================================= END BLOG DETAILS PART============*/
+
+
+  /*============================================= Start Student Feedback Section ============*/
+  #student-image img {
+    height: 165px;
+  }
+
+  #student-feedback-section .feedback-video {
+    width: 94%;
+  }
+
+  #student-feedback-section .feedback-title h4 {
+    margin-top: 0%;
+  }
+
+  #student-feedback-section .feedback-title {
+    width: 100%;
+    padding-left: 80px;
+  }
+  #student-feedbaack-bottom {
+    padding: 10px 0px;
+}
+
+  /*============================================= End Student Feedback Section ============*/
+
+  /*============================================= Start Gallery Section ============*/
+  #gallery-slider img {
+    height: 200px;
+    margin-top: 15px;
+  }
+
+  #gallery-image-button button {
+    padding: 3px 10px;
+    font-size: 14px;
+    margin: 1px;
+  }
+  #gallery-image-button .button {
+    margin: 10px 0px;
+}
+  #gallery-image-button img {
+    width: 95%;
+  }
+  #gallery-image-button {
+    overflow: hidden;
+    padding-bottom: 5px;
+}
+  /*============================================= End Gallery Section ============*/
+
+  #bottom-to-top {
+    font-size: 20px;
+    right: 5px;
+  }
+
+  /*============================================= Start Career Section ============*/
+
+  #career-top h2 {
+    font-size: 22px;
+    float: left;
+    padding-left: 10px;
+  }
+
+  #career-top .col-lg-3 {
+    padding-left: 10px;
+  }
+
+  #career-top .container {
+    padding-bottom: 10px;
+  }
+
+  #career-top {
+    padding: 5px 0px;
+  }
+
+  #career-bottom .jobs .image img {
+    width: 90%;
+    height: 170px;
+  }
+
+  #career-bottom .jobs .image-right {
+    margin-left: 16px;
+  }
+
+  #career-bottom .jobs .date {
+    float: left;
+  }
+
+  #career-bottom .jobs .date p {
+    margin-left: 15px;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+
+  #career-bottom .jobs .image-right h6 {
+    font-size: 18px;
+    margin-top: 8px;
+  }
+
+  #career-bottom .pagination a {
+    font-size: 14px;
+  }
+
+  #career-bottom .jobs .image-left {
+    text-align: center !important;
+  }
+
+  /*============================================= End Career Section ============*/
+
+  /*============================================= Start Seminar Section ============*/
+  #seminar-top h1 {
+    margin: 15px 0px 15px 0px;
+    font-size: 22px;
+}
+  #seminar-middle h4 {
+    font-size: 18px;
+  }
+
+  #seminar-middle .seminar-item {
+    margin: 5px;
+  }
+
+  #seminar-middle .seminar-item img {
+    height: 80px;
+    width: 90px;
+    margin: 12px 5px 5px 5px;
+}
+
+  #seminar-middle .seminar-item .seminar-img-right {
+    margin-left: 5px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right h5 {
+    font-size: 14px;
+  }
+
+  #seminar-middle .seminar-item .seminar-img-right p {
+    font-size: 13px;
+    margin-bottom: 0px;
+  }
+
+  #seminar-middle .seminar-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #seminar-middle .seminar-button a {
+    padding: 2px 8px;
+    font-size: 16px;
+  }
+  
+
+  /*============================================= End Seminar Section ============*/
+
+  /*============================================= Start Social Activity Section ============*/
+  #social-image img {
+    height: 175px;
+    margin-bottom: 5px;
+  }
+
+  #social-gallery h2 {
+    font-size: 18px;
+    margin: 10px 0px;
+  }
+
+  #social-gallery img {
+    height: 175px;
+    margin: 5px 0px 5px 0px;
+  }
+
+  #social-gallery .order-num-2 {
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2;
+  }
+
+  #social-gallery .order-num-1 {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+
+  #social-gallery .gallert-text-top h3 {
+    font-size: 18px;
+    margin: 5px 0px;
+  }
+
+  #social-gallery .gallert-text-top small {
+    font-size: 11px;
+  }
+
+  #social-gallery .gallery-text a {
+    padding: 3px 10px;
+    font-size: 15px;
+  }
+
+  /*============================================= End Social Activity Section ============*/
+
+  /*============================================= Start Social Activity Details Section ============*/
+  #social-gallery-details img {
+    height: 170px;
+    width: 95%;
+  }
+
+  #social-gallery-details .gallert-text-top h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  #social-gallery-details .gallert-text-top small {
+    font-size: 12px;
+  }
+
+  #social-gallery-details .gallery-text p {
+    font-size: 15px;
+  }
+
+  /*============================================= End Social Activity Details Section ============*/
+}
+
+/*====== End 575 px =====*/

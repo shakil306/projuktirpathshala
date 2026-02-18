@@ -46,20 +46,20 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
         <div class="col">
             <div class="row">
                 @php
-                    use App\Models\Batch;
-                    $batches=Batch::where('status',"active")->orderBy('id','DESC')->get();
+                use App\Models\Batch;
+                $batches=Batch::where('status',"active")->orderBy('id','DESC')->get();
                 @endphp
-                    <div class="col">
-                            <marquee class="marquee" behavior="" direction="">Upcoming Batch :  @foreach($batches as $batch)<a class="marquee_a" href="{{route('registernow', ['id'=>$batch->slug])}}">{{$batch->course_name}}.</a>@endforeach</marquee>
-                    </div>
+                <div class="col">
+                    <marquee class="marquee" behavior="" direction="">Upcoming Batch : @foreach($batches as $batch)<a class="marquee_a" href="{{route('registernow', ['id'=>$batch->slug])}}">{{$batch->course_name}}.</a>@endforeach</marquee>
+                </div>
             </div>
         </div>
         <div class="col-3">
             <ul>
                 @foreach($links as $link)
-                    <li>
-                        <a href="{{$link->link}}" target="_blank"><i class="{{$link->class}}"></i></a>
-                    </li>
+                <li>
+                    <a href="{{$link->link}}" target="_blank"><i class="{{$link->class}}"></i></a>
+                </li>
                 @endforeach
             </ul>
         </div>
@@ -68,7 +68,7 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
         <div class="row logo-design">
             <div class="col-lg-4 col-md-3 col-sm-3">
                 <div class="logo">
-                    <a href="{{route('index')}}"><img src="{{url('public/uploads/logo/'.$tlogo->logo)}}" alt="Projuktir Pathshala Institute"></a>
+                    <a href="{{route('index')}}"><img src="{{asset('uploads/logo/'.$tlogo->logo)}}" alt="Projuktir Pathshala Institute"></a>
                 </div>
             </div>
             @php
@@ -80,104 +80,104 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
                     <div class="col-lg-6 col-md-6 col-sm-5">
                         <div class="phone">
                             <div class="phn-icon">
-{{--                                <i class="fas fa-phone-alt"></i>--}}
+                                {{-- <i class="fas fa-phone-alt"></i>--}}
                             </div>
                             <div class="phn-num">
-                            @foreach($contacts as $contact)
-                                    <p><i class="fas fa-phone-alt top_phone"></i>{{$contact->phone}}
-                                @Auth
+                                @foreach($contacts as $contact)
+                                <p><i class="fas fa-phone-alt top_phone"></i>{{$contact->phone}}
+                                    @Auth
 
-@if(auth()->user()->status==='active')
+                                    @if(auth()->user()->status==='active')
 
-<div class="modal-part">
-    <div class="container">
-      <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#heading2{{$contact->id}}">
-        Edit Form
-      </button>
-    </div>
+                                <div class="modal-part">
+                                    <div class="container">
+                                        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#heading2{{$contact->id}}">
+                                            Edit Form
+                                        </button>
+                                    </div>
 
-    <div class="modal fade" id="heading2{{$contact->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered" role="document">
-        <div class="modal-content">
-          <div class="modal-header border-bottom-0">
+                                    <div class="modal fade" id="heading2{{$contact->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header border-bottom-0">
 
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <form action="{{route('phone',['id'=>$contact->id])}}" method="POST" role="form" enctype="multipart/form-data">
-            @method('put')
-            @csrf
-            <div class="modal-body">
-              <div class="form-group">
-              <input type="string" name="number" class="form-control" value="{{$contact->phone}}" required>
-              </div>
-            </div>
-            <div class="modal-footer border-top-0 d-flex justify-content-center">
-              <button type="submit" class="btn btn-success">Submit</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-  @endif
-  @endif
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                </div>
+                                                <form action="{{route('phone',['id'=>$contact->id])}}" method="POST" role="form" enctype="multipart/form-data">
+                                                    @method('put')
+                                                    @csrf
+                                                    <div class="modal-body">
+                                                        <div class="form-group">
+                                                            <input type="string" name="number" class="form-control" value="{{$contact->phone}}" required>
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                                        <button type="submit" class="btn btn-success">Submit</button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endif
+                                @endif
 
 
                                 </p>
-                            @endforeach
+                                @endforeach
 
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-7">
                         <div class="email">
-{{--                            <div class="email-icon">--}}
-{{--                                <i class="far fa-envelope"></i>--}}
-{{--                            </div>--}}
+                            {{-- <div class="email-icon">--}}
+                            {{-- <i class="far fa-envelope"></i>--}}
+                            {{-- </div>--}}
                             <div class="email-add">
-                            @foreach($contacts as $contact)
+                                @foreach($contacts as $contact)
                                 <p><i class="far fa-envelope top_phone"></i>{{$contact->email}}</p>
 
                                 @Auth
-              @if(auth()->user()->status==='active')
-              <div class="modal-part">
-                <div class="container">
-                  <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#form11{{$contact->id}}">
-                    Edit Email
-                  </button>
-                </div>
-                <div class="modal fade" id="form11{{$contact->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                  <div class="modal-dialog modal-dialog-centered" role="document">
-                    <div class="modal-content">
-                      <div class="modal-header border-bottom-0">
+                                @if(auth()->user()->status==='active')
+                                <div class="modal-part">
+                                    <div class="container">
+                                        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#form11{{$contact->id}}">
+                                            Edit Email
+                                        </button>
+                                    </div>
+                                    <div class="modal fade" id="form11{{$contact->id}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header border-bottom-0">
 
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                          <span aria-hidden="true">&times;</span>
-                        </button>
-                      </div>
-                      <form action="{{route('email',['id'=>$contact->id])}}" method="POST" role="form" enctype="multipart/form-data">
-                        @method('put')
-                        @csrf
-                        <div class="modal-body">
-                          <div class="form-group">
-                            <label for="Email">Your Email</label>
-                            <input type="email" name="email" id="Email" value="{{$contact->email}}" required>
-                          </div>
-                        </div>
-                        <div class="modal-footer border-top-0 d-flex justify-content-center">
-                          <button type="submit" class="btn btn-success">Submit</button>
-                        </div>
-                      </form>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              @endif
-@endif
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                </div>
+                                                <form action="{{route('email',['id'=>$contact->id])}}" method="POST" role="form" enctype="multipart/form-data">
+                                                    @method('put')
+                                                    @csrf
+                                                    <div class="modal-body">
+                                                        <div class="form-group">
+                                                            <label for="Email">Your Email</label>
+                                                            <input type="email" name="email" id="Email" value="{{$contact->email}}" required>
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                                        <button type="submit" class="btn btn-success">Submit</button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endif
+                                @endif
 
-                            @endforeach
+                                @endforeach
 
                             </div>
                         </div>
@@ -191,7 +191,7 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
 
 <!-- ===== Start Navbbar Section =======-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="{{route('index')}}"><img src="{{url('public/uploads/logo/'.$tlogo->logo)}}" alt="projuktir pathshala institute"></a>
+    <a class="navbar-brand" href="{{route('index')}}"><img src="{{asset('uploads/logo/'.$tlogo->logo)}}" alt="projuktir pathshala institute"></a>
     <a class="nav_number" href="tel:+8801733662435" title="+8801733662435">+8801733662435</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -227,7 +227,7 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
                 <a class="nav-link" href="{{route('about')}}">{{$titlea->page_name}}</a>
             </li>
 
-        @foreach($menu as $all_menu)
+            @foreach($menu as $all_menu)
 
             @if (count($all_menu->sub) > 0)
 
@@ -237,7 +237,7 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
                     {{$all_menu->menu_name}}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                @foreach($all_menu->sub as $all_sub)
+                    @foreach($all_menu->sub as $all_sub)
 
 
                     <a class="dropdown-item" href="{{$all_sub->sub_link}}">{{$all_sub->sub_name}}</a>
@@ -276,24 +276,24 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
             </li>
 
 
-          @Auth
+            @Auth
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">
                     {{Auth()->user()->name}}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                @if(Auth()->user()->role==='student')
+                    @if(Auth()->user()->role==='student')
                     <a class="dropdown-item" href="{{route('profile')}}">My Profile</a>
-                @else
-                <a class="dropdown-item" href="{{route('home')}}">Admin Dashboard</a>
-                @endif
+                    @else
+                    <a class="dropdown-item" href="{{route('home')}}">Admin Dashboard</a>
+                    @endif
                     <a class="dropdown-item" href="{{route('resetpassword')}}">Change Password</a>
                     <a class="dropdown-item" href="{{route('logout')}}">Log Out</a>
                 </div>
             </li>
 
-          @endif
+            @endif
 
 
 
@@ -302,13 +302,13 @@ $dt = new DateTime('now', new DateTimezone('Asia/Dhaka'));
 </nav>
 <!-- ===== End Start Navbbar Section =======-->
 
- <!--===== shorting submenu by length =====-->
- <script>
-  const submenu = document.getElementById('submenu');
-  const links = Array.from(submenu.getElementsByTagName('a'));
+<!--===== shorting submenu by length =====-->
+<script>
+    const submenu = document.getElementById('submenu');
+    const links = Array.from(submenu.getElementsByTagName('a'));
 
-  links.sort((a, b) => a.textContent.length - b.textContent.length);
+    links.sort((a, b) => a.textContent.length - b.textContent.length);
 
-  links.forEach(link => submenu.appendChild(link));
+    links.forEach(link => submenu.appendChild(link));
 </script>
- <!--===== shorting submenu by length end =====-->
+<!--===== shorting submenu by length end =====-->

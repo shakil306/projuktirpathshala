@@ -39,35 +39,35 @@ $heading=Heading::where('id',17)->first();
                 @Auth
                 @if(auth()->user()->status==='active')
                 <p class="text-center">
-                  <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleBlogPage" role="button" aria-expanded="false" aria-controls="collapseExample">
-                    Edit Form
-                  </a>
+                    <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleBlogPage" role="button" aria-expanded="false" aria-controls="collapseExample">
+                        Edit Form
+                    </a>
                 </p>
                 <div class="collapse" id="collapseExampleBlogPage">
-                  <div class="">
-                      <div class="" id="heading" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-                        aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header border-bottom-0">
-                                </div>
-                                <form action="{{route('headingedit',['id'=>$heading->id])}}" method="POST" role="form"
-                                    enctype="multipart/form-data">
-                                    @method('put')
-                                    @csrf
-                                    <div class="modal-body">
-                                        <div class="form-group">
-                                            <textarea name="heading" id="summernote" class="form-control" required>{{$heading->name}}</textarea>
+                    <div class="">
+                        <div class="" id="heading" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                            aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header border-bottom-0">
+                                    </div>
+                                    <form action="{{route('headingedit',['id'=>$heading->id])}}" method="POST" role="form"
+                                        enctype="multipart/form-data">
+                                        @method('put')
+                                        @csrf
+                                        <div class="modal-body">
+                                            <div class="form-group">
+                                                <textarea name="heading" id="summernote" class="form-control" required>{{$heading->name}}</textarea>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="modal-footer border-top-0 d-flex justify-content-center">
-                                        <button type="submit" class="btn btn-success">Submit</button>
-                                    </div>
-                                </form>
+                                        <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                            <button type="submit" class="btn btn-success">Submit</button>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
-                  </div>
                 </div>
                 @endif
                 @endif
@@ -102,10 +102,12 @@ $heading=Heading::where('id',17)->first();
                     <div class="col-lg-4 col-md-6 left-item m-0 border-0">
                         <div class="border p-2 radius mb-3">
                             <div class="blog-img">
-                                <img src="{{url('public/uploads/blog/'.$blog->image)}}" alt="News">
+                                <img src="{{asset('uploads/blog/'.$blog->image)}}" alt="News">
                             </div>
                             <div class="blog-title">
-                                <a href="{{route('blog-details',$blog->slug)}}"><h6>{!! Str::limit($blog->title, 34) !!}</h6></a>
+                                <a href="{{route('blog-details',$blog->slug)}}">
+                                    <h6>{!! Str::limit($blog->title, 34) !!}</h6>
+                                </a>
                             </div>
                             <div class="blog-body px-2">
                                 {!! Str::limit($blog->description,155) !!}
@@ -113,7 +115,7 @@ $heading=Heading::where('id',17)->first();
                             <div class="blog-link">
                                 <a href="{{route('blog-details',$blog->slug)}}" target="_blank">Read More</a>
                             </div>
-                        </div>    
+                        </div>
                     </div>
                     @endforeach
                 </div>
@@ -123,9 +125,9 @@ $heading=Heading::where('id',17)->first();
             $links=Social_link::paginate(6);
             @endphp
         </div>
-    <center>
-        <a href="{{route('allblog')}}" class="btn btn-primary mt-2">See All Blogs</a>
-    </center>
+        <center>
+            <a href="{{route('allblog')}}" class="btn btn-primary mt-2">See All Blogs</a>
+        </center>
     </div>
 
 
@@ -153,12 +155,12 @@ $heading=Heading::where('id',17)->first();
                     <div class="col-lg-4 col-md-4 col-sm-12 left-item m-0 border-0">
                         <div class="border p-2 radius mb-3">
                             <div class="blog-img">
-                                <img src="{{url('public/uploads/blog/'.$popular->image)}}" alt="News">
+                                <img src="{{asset('uploads/blog/'.$popular->image)}}" alt="News">
                             </div>
                             <div class="blog-title">
                                 <a href="{{route('blog-details',$popular->slug)}}">{!!$popular->title!!}</a>
                             </div>
-     
+
                             <div class="blog-body px-2">
                                 {!! Str::limit($popular->description,155) !!}
                             </div>

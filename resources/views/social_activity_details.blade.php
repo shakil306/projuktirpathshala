@@ -31,33 +31,33 @@ $heading=Heading::where('id',21)->first();
                 @Auth
                 @if(auth()->user()->status==='active')
                 <p>
-                  <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleSocialActivityDetailsHeading" role="button" aria-expanded="false" aria-controls="collapseExample">
-                    Edit
-                  </a>
+                    <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleSocialActivityDetailsHeading" role="button" aria-expanded="false" aria-controls="collapseExample">
+                        Edit
+                    </a>
                 </p>
                 <div class="collapse" id="collapseExampleSocialActivityDetailsHeading">
-                  <div class="">
-                      <div class="" id="heading" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-                        aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <form action="{{route('headingedit',['id'=>$heading->id])}}" method="POST" role="form"
-                                    enctype="multipart/form-data">
-                                    @method('put')
-                                    @csrf
-                                    <div class="modal-body">
-                                        <div class="form-group">
-                                            <textarea name="heading" id="summernote" class="form-control" required>{{$heading->name}}</textarea>
+                    <div class="">
+                        <div class="" id="heading" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                            aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <form action="{{route('headingedit',['id'=>$heading->id])}}" method="POST" role="form"
+                                        enctype="multipart/form-data">
+                                        @method('put')
+                                        @csrf
+                                        <div class="modal-body">
+                                            <div class="form-group">
+                                                <textarea name="heading" id="summernote" class="form-control" required>{{$heading->name}}</textarea>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="modal-footer border-top-0 d-flex justify-content-center">
-                                        <button type="submit" class="btn btn-success">Submit</button>
-                                    </div>
-                                </form>
+                                        <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                            <button type="submit" class="btn btn-success">Submit</button>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
-                  </div>
                 </div>
 
                 @endif
@@ -76,7 +76,7 @@ $heading=Heading::where('id',21)->first();
         <div class="row">
             <div class="col text-center">
                 <div class="gallery-img">
-                    <img class="img-fluid" src="{{url('public/uploads/social/'.$social_activity->image)}}" alt="{{$social_activity->alt}}">
+                    <img class="img-fluid" src="{{asset('uploads/social/'.$social_activity->image)}}" alt="{{$social_activity->alt}}">
                 </div>
             </div>
         </div>
@@ -93,46 +93,46 @@ $heading=Heading::where('id',21)->first();
                     @Auth
                     @if(auth()->user()->status==='active')
                     <p class="text-center">
-                      <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleSocialActivityDetailsContent" role="button" aria-expanded="false" aria-controls="collapseExample">
-                        Edit
-                      </a>
+                        <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleSocialActivityDetailsContent" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            Edit
+                        </a>
                     </p>
                     <div class="collapse" id="collapseExampleSocialActivityDetailsContent">
-                      <div class="">
-                          <div class="" id="form72" tabindex="-1" role="dialog"
-                            aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-header border-bottom-0">
+                        <div class="">
+                            <div class="" id="form72" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header border-bottom-0">
+                                        </div>
+                                        <form action="{{route('socialedit',['id'=>$social_activity->id])}}" method="POST"
+                                            role="form" enctype="multipart/form-data">
+                                            @method('put')
+                                            @csrf
+                                            <div class="modal-body">
+                                                <div class="form-group">
+                                                    <label for="img">Select image:</label>
+                                                    <input type="file" id="img" name="img" accept="image/*">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label for="img">Alt:</label>
+                                                    <input type="text" name="alt" value="{{$social_activity->alt}}" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <textarea class="form-control" name="title" id="summernote" required>{{$social_activity->title}}</textarea>
+                                                </div>
+                                                <div class="form-group">
+                                                    <textarea class="form-control" name="description" id="" required>{{$social_activity->description}}</textarea>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                                <button type="submit" class="btn btn-success">Submit</button>
+                                            </div>
+                                        </form>
                                     </div>
-                                    <form action="{{route('socialedit',['id'=>$social_activity->id])}}" method="POST"
-                                        role="form" enctype="multipart/form-data">
-                                        @method('put')
-                                        @csrf
-                                        <div class="modal-body">
-                                            <div class="form-group">
-                                                <label for="img">Select image:</label>
-                                                <input type="file" id="img" name="img" accept="image/*">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="img">Alt:</label>
-                                                <input type="text" name="alt" value="{{$social_activity->alt}}" class="form-control">
-                                            </div>
-                                            <div class="form-group">
-                                                <textarea class="form-control" name="title" id="summernote" required>{{$social_activity->title}}</textarea>
-                                            </div>
-                                            <div class="form-group">
-                                                <textarea class="form-control" name="description" id="" required>{{$social_activity->description}}</textarea>
-                                            </div>
-                                        </div>
-                                        <div class="modal-footer border-top-0 d-flex justify-content-center">
-                                            <button type="submit" class="btn btn-success">Submit</button>
-                                        </div>
-                                    </form>
                                 </div>
                             </div>
                         </div>
-                      </div>
                     </div>
 
                     @endif

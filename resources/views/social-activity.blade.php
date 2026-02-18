@@ -41,35 +41,35 @@ $i=0;
 
                 @if(auth()->user()->status==='active')
                 <p class="text-center">
-                  <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleSocialActivityFirstHeading" role="button" aria-expanded="false" aria-controls="collapseExample">
-                    Edit Form
-                  </a>
+                    <a class="btn btn-danger" data-toggle="collapse" href="#collapseExampleSocialActivityFirstHeading" role="button" aria-expanded="false" aria-controls="collapseExample">
+                        Edit Form
+                    </a>
                 </p>
                 <div class="collapse" id="collapseExampleSocialActivityFirstHeading">
-                  <div class="">
-                      <div class="" id="heading" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-                        aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header border-bottom-0">
-                                </div>
-                                <form action="{{route('headingedit',['id'=>$heading->id])}}" method="POST" role="form"
-                                    enctype="multipart/form-data">
-                                    @method('put')
-                                    @csrf
-                                    <div class="modal-body">
-                                        <div class="form-group">
-                                            <textarea name="heading" class="form-control" id="summernote" required>{{$heading->name}}</textarea>
+                    <div class="">
+                        <div class="" id="heading" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+                            aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header border-bottom-0">
+                                    </div>
+                                    <form action="{{route('headingedit',['id'=>$heading->id])}}" method="POST" role="form"
+                                        enctype="multipart/form-data">
+                                        @method('put')
+                                        @csrf
+                                        <div class="modal-body">
+                                            <div class="form-group">
+                                                <textarea name="heading" class="form-control" id="summernote" required>{{$heading->name}}</textarea>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="modal-footer border-top-0 d-flex justify-content-center">
-                                        <button type="submit" class="btn btn-success">Submit</button>
-                                    </div>
-                                </form>
+                                        <div class="modal-footer border-top-0 d-flex justify-content-center">
+                                            <button type="submit" class="btn btn-success">Submit</button>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
-                  </div>
                 </div>
 
                 @endif
@@ -86,7 +86,7 @@ $i=0;
     <div class="container">
         <div class="row text-center">
             <div class="col">
-                <img class="img-fluid" src="{{url('public/uploads/social/'.$social_cover->image)}}" alt="social activity">
+                <img class="img-fluid" src="{{asset('uploads/social/'.$social_cover->image)}}" alt="social activity">
 
                 @Auth
                 @if(auth()->user()->status==='active')
@@ -150,7 +150,7 @@ $i=0;
         <div class="row">
             <div class="col-lg-7 col-md-7 col-sm-7">
                 <div class="gallery-img">
-                    <img class="img-fluid" src="{{url('public/uploads/social/'.$social_activity->image)}}" alt="Gallery-1">
+                    <img class="img-fluid" src="{{asset('uploads/social/'.$social_activity->image)}}" alt="Gallery-1">
                 </div>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-5">
@@ -193,7 +193,7 @@ $i=0;
             </div>
             <div class="col-lg-7 col-md-7 col-sm-7 order-num-1">
                 <div class="gallery-img">
-                    <img class="img-fluid" src="{{url('public/uploads/social/'.$social_activity->image)}}" alt="Gallery-1">
+                    <img class="img-fluid" src="{{asset('uploads/social/'.$social_activity->image)}}" alt="Gallery-1">
                 </div>
             </div>
         </div>

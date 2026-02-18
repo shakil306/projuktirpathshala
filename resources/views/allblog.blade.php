@@ -18,10 +18,12 @@ $title=Title::where('p_mark',"All BLog")->first();
                     <div class="col-lg-4 col-md-6 left-item border-0">
                         <div class="border p-2 radius mb-3">
                             <div class="blog-img">
-                                <img src="{{url('public/uploads/blog/'.$popular->image)}}" alt="News">
+                                <img src="{{asset('uploads/blog/'.$popular->image)}}" alt="News">
                             </div>
                             <div class="blog-title">
-                                <a href="{{route('blog-details',$popular->slug)}}"><div>{!! $popular->title !!}</div></a>
+                                <a href="{{route('blog-details',$popular->slug)}}">
+                                    <div>{!! $popular->title !!}</div>
+                                </a>
                             </div>
                             <div class="blog-body px-2">
                                 {!! Str::limit($popular->description,155) !!}

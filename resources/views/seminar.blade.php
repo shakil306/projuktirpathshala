@@ -1,20 +1,21 @@
 <style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 80%;
-  margin-left: 110px;
-}
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 80%;
+        margin-left: 110px;
+    }
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
+    td,
+    th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
 </style>
 @php
 Use App\Models\Title;
@@ -56,7 +57,7 @@ $heading=Heading::where('id',18)->first();
             <div class="col-lg-6 col-md-9 col-sm-9">
                 <div class="seminar-img">
                     <div class="seminar-img-left float-left">
-                        <img class="img-fluid" src="{{url('public/uploads/event/'.$seminar->image)}}" alt="{{$seminar->alt}}">
+                        <img class="img-fluid" src="{{asset('uploads/event/'.$seminar->image)}}" alt="{{$seminar->alt}}">
                     </div>
                     <div class="seminar-img-right float-left">
                         <h5>{{$seminar->title}}</h5>
@@ -146,7 +147,7 @@ $heading=Heading::where('id',18)->first();
             <div class="col-lg-6 col-md-9 col-sm-9">
                 <div class="seminar-img">
                     <div class="seminar-img-left float-left">
-                        <img class="img-fluid" src="{{url('public/uploads/event/'.$workshop->image)}}" alt="{{$workshop->alt}}">
+                        <img class="img-fluid" src="{{asset('uploads/event/'.$workshop->image)}}" alt="{{$workshop->alt}}">
                     </div>
                     <div class="seminar-img-right float-left">
                         <h5>{{$workshop->title}}</h5>
