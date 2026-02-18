@@ -1,0 +1,1388 @@
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_06_03_062644_create_count2s_table.php on line 7
+[11-Sep-2021 10:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_100142_create_abouts_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095144_create_future_leaders_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:28:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:29:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_04_13_085355_create_coupons_table.php on line 7
+[11-Sep-2021 10:29:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:29:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:29:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_23_102148_create_whies_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_095656_create_why_uses_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_18_102241_create_headings_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_102545_create_success_students_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131621_create_contacts_table.php on line 7
+[11-Sep-2021 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114125_create_events_table.php on line 7
+[11-Sep-2021 10:29:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_124253_create_requirments_table.php on line 7
+[11-Sep-2021 10:29:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_100833_create_logos_table.php on line 7
+[11-Sep-2021 10:29:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_095720_create_videos_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_114310_create_registrations_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_073407_create_titles_table.php on line 7
+[11-Sep-2021 10:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_114101_create_social_activities_table.php on line 7
+[11-Sep-2021 10:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_071703_create_student_feedbacks_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_131835_create_contact_uses_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_101753_create_our_sister_concerns_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060314_create_galleries_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_065055_create_sliders_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_07_053329_create_social_covers_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_092201_create_courses_table.php on line 7
+[11-Sep-2021 10:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_045133_create_welcome_slides_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_124811_create_blogs_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_130915_create_batches_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_08_120438_create_course_modules_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_14_102631_create_locations_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_071247_create_departments_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_102452_create_admissions_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_06_060451_create_gallery_tops_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_102111_create_social_links_table.php on line 7
+[11-Sep-2021 10:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_060408_create_consults_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_03_085924_create_welcomes_table.php on line 7
+[11-Sep-2021 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_10_050206_create_counts_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_21_060851_create_analytics_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_22_042645_create_comments_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_13_124459_create_copyrights_table.php on line 7
+[11-Sep-2021 10:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_09_084036_create_facilities_table.php on line 7
+[11-Sep-2021 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_124303_create_meta_keywords_table.php on line 7
+[11-Sep-2021 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_20_113003_create_othothas_table.php on line 7
+[11-Sep-2021 10:29:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_054209_create_submenus_table.php on line 7
+[11-Sep-2021 10:29:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:29:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_04_055924_create_mentors_table.php on line 7
+[11-Sep-2021 10:30:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7
+[11-Sep-2021 10:30:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7
+[11-Sep-2021 10:30:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/digitalmarketing/public_html/mainppi/database/migrations/2021_03_15_053954_create_menus_table.php on line 7

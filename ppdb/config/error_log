@@ -1,0 +1,56 @@
+[10-Jan-2023 17:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[10-Jan-2023 17:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[11-Jan-2023 21:09:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[11-Jan-2023 21:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[25-Jan-2023 03:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[25-Jan-2023 03:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[30-Jan-2023 19:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[30-Jan-2023 19:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[10-Feb-2023 17:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[15-Feb-2023 13:16:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[15-Feb-2023 13:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[20-Feb-2023 21:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[21-Feb-2023 01:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/projuktirpathsha/public_html/config/cache.php on line 21
+[04-Mar-2023 18:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home8/projuktirpathsha/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home8/projuktirpathsha/public_html/config/cache.php on line 21
